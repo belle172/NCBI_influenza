@@ -1,0 +1,3507 @@
+>(A/Minnesota/22/2014(H3N2))	H3N2	2014/09/20	1
+KT837179	segment 1	length 2280
+KT837213	segment 2	length 2274
+KT837318	segment 3	length 2151
+KT837098	segment 4	length 1701
+KT837183	segment 5	length 1497
+KT837194	segment 6	length 1410
+KT837230	segment 7	length 982
+KT837173	segment 8	length 838
+>(A/Minnesota/21/2014(H3N2))	H3N2	2014/09/17	2
+KT837185	segment 1	length 2280
+KT837228	segment 2	length 2274
+KT837182	segment 3	length 2151
+KT837240	segment 4	length 1701
+KT837165	segment 5	length 1497
+KT837227	segment 6	length 1410
+KT837177	segment 7	length 982
+KT837232	segment 8	length 838
+>(A/Minnesota/41/2015(H3N2))	H3N2	2015/09/14	3
+KU590021	segment 1	length 2280
+KU590176	segment 2	length 2274
+KU590177	segment 3	length 2151
+KU590178	segment 4	length 1701
+KU590179	segment 5	length 1497
+KU590180	segment 6	length 1410
+KU590181	segment 7	length 982
+KU590182	segment 8	length 838
+>(B/Minnesota/23/2015)		2015/08/02	4
+KU592712	segment 1	length 2259
+KU592713	segment 2	length 2313
+KU592714	segment 3	length 2181
+KU592715	segment 4	length 1755
+KU592716	segment 5	length 1683
+KU592717	segment 6	length 1408
+KU592718	segment 7	length 1140
+KU592719	segment 8	length 1024
+>(A/Minnesota/51/2015(H3N2))	H3N2	2015/12/14	5
+KX413542	segment 1	length 2316
+KX413543	segment 2	length 2316
+KX413544	segment 3	length 2208
+KX413545	segment 4	length 1737
+KX413546	segment 5	length 1542
+KX413547	segment 6	length 1441
+KX413548	segment 7	length 1002
+KX413549	segment 8	length 865
+>(A/Minnesota/54/2015(H3N2))	H3N2	2015/12/20	6
+KX413678	segment 1	length 2316
+KX413679	segment 2	length 2316
+KX413680	segment 3	length 2208
+KX413681	segment 4	length 1737
+KX413682	segment 5	length 1541
+KX413683	segment 6	length 1441
+KX413684	segment 7	length 1002
+KX413685	segment 8	length 865
+>(A/Minnesota/73/2016(H3N2))	H3N2	2016/10/04	7
+KY116347	segment 1	length 2316
+KY116348	segment 2	length 2316
+KY116349	segment 3	length 2209
+KY116350	segment 4	length 1737
+KY116351	segment 5	length 1541
+KY116352	segment 6	length 1441
+KY116353	segment 7	length 1002
+KY116354	segment 8	length 865
+>(B/Minnesota/05/2017)		2017/02/14	8
+CY229210	segment 1	length 2340
+CY229211	segment 2	length 2367
+CY229212	segment 3	length 2275
+CY229213	segment 4	length 1850
+CY229214	segment 5	length 1815
+CY229215	segment 6	length 1528
+CY229216	segment 7	length 1154
+CY229217	segment 8	length 1066
+>(A/Minnesota/01/2018)	H3N2	2018/01/03	9
+MH845975	segment 1	length 2316
+MH845973	segment 2	length 2316
+MH845971	segment 3	length 2208
+MH845968	segment 4	length 1737
+MH845969	segment 5	length 1541
+MH845970	segment 6	length 1441
+MH845972	segment 7	length 1002
+MH845974	segment 8	length 865
+>(A/Minnesota/33/2018)	H3N2	2018/04/24	10
+MH729527	segment 1	length 2316
+MH729525	segment 2	length 2316
+MH729523	segment 3	length 2208
+MH729528	segment 4	length 1737
+MH729529	segment 5	length 1542
+MH729522	segment 6	length 1433
+MH729524	segment 7	length 1002
+MH729526	segment 8	length 865
+>(A/Minnesota/40/2018)	H3N2	2018/07/18	11
+MH898266	segment 1	length 2316
+MH898267	segment 2	length 2316
+MH898268	segment 3	length 2208
+MH898269	segment 4	length 1737
+MH898270	segment 5	length 1541
+MH898271	segment 6	length 1441
+MH898272	segment 7	length 1002
+MH898273	segment 8	length 865
+>(B/Minnesota/24/2018)		2018/06/02	12
+MH726991	segment 1	length 2340
+MH726990	segment 2	length 2367
+MH726992	segment 3	length 2275
+MH726993	segment 4	length 1853
+MH726994	segment 5	length 1816
+MH726995	segment 6	length 1530
+MH726996	segment 7	length 1155
+MH726997	segment 8	length 1062
+>(B/Minnesota/23/2018)		2018/05/25	13
+MH726983	segment 1	length 2341
+MH726982	segment 2	length 2367
+MH726984	segment 3	length 2275
+MH726985	segment 4	length 1853
+MH726986	segment 5	length 1816
+MH726987	segment 6	length 1529
+MH726988	segment 7	length 1155
+MH726989	segment 8	length 1063
+>(B/Minnesota/21/2018)		2018/05/14	14
+MH791979	segment 1	length 2340
+MH791977	segment 2	length 2367
+MH791975	segment 3	length 2275
+MH791980	segment 4	length 1853
+MH791981	segment 5	length 1816
+MH791974	segment 6	length 1529
+MH791976	segment 7	length 1155
+MH791978	segment 8	length 1062
+>(A/Minnesota/41/2018)	H1N1	2018/08/06	15
+MK025720	segment 1	length 2316
+MK025721	segment 2	length 2316
+MK025722	segment 3	length 2209
+MK025723	segment 4	length 1752
+MK025724	segment 5	length 1540
+MK025725	segment 6	length 1433
+MK025726	segment 7	length 1002
+MK025727	segment 8	length 865
+>(A/Minnesota/43/2018)	H1N1	2018/09/03	16
+MK077253	segment 1	length 2316
+MK077254	segment 2	length 2316
+MK077255	segment 3	length 2208
+MK077256	segment 4	length 1752
+MK077257	segment 5	length 1540
+MK077258	segment 6	length 1433
+MK077259	segment 7	length 1002
+MK077260	segment 8	length 865
+>(A/Minnesota/25/2018)	H3N2	2018/03/18	17
+MK241367	segment 1	length 2316
+MK241366	segment 2	length 2316
+MK241365	segment 3	length 2209
+MK241364	segment 4	length 1737
+MK241363	segment 5	length 1542
+MK241362	segment 6	length 1441
+MK241361	segment 7	length 1002
+MK241360	segment 8	length 865
+>(A/Minnesota/27/2018)	H3N2	2018/03/28	18
+MK241311	segment 1	length 2316
+MK241310	segment 2	length 2316
+MK241309	segment 3	length 2208
+MK241308	segment 4	length 1737
+MK241307	segment 5	length 1542
+MK241306	segment 6	length 1441
+MK241305	segment 7	length 1002
+MK241304	segment 8	length 865
+>(A/Minnesota/42/2018)	H3N2	2018/08/20	19
+MK181764	segment 1	length 2316
+MK181765	segment 2	length 2316
+MK181766	segment 3	length 2208
+MK181767	segment 4	length 1737
+MK181768	segment 5	length 1542
+MK181769	segment 6	length 1441
+MK181770	segment 7	length 1002
+MK181771	segment 8	length 865
+>(A/Minnesota/46/2018)	H1N1	2018/09/05	20
+MK181972	segment 1	length 2316
+MK181973	segment 2	length 2316
+MK181974	segment 3	length 2208
+MK181975	segment 4	length 1752
+MK181976	segment 5	length 1540
+MK181977	segment 6	length 1433
+MK181978	segment 7	length 1002
+MK181979	segment 8	length 865
+>(A/Minnesota/47/2018)	H3N2	2018/09/07	21
+MK181740	segment 1	length 2316
+MK181741	segment 2	length 2316
+MK181742	segment 3	length 2208
+MK181743	segment 4	length 1737
+MK181744	segment 5	length 1541
+MK181745	segment 6	length 1441
+MK181746	segment 7	length 1002
+MK181747	segment 8	length 865
+>(A/Minnesota/48/2018)	H3N2	2018/09/01	22
+MK181880	segment 1	length 2316
+MK181881	segment 2	length 2316
+MK181882	segment 3	length 2208
+MK181883	segment 4	length 1737
+MK181884	segment 5	length 1541
+MK181885	segment 6	length 1441
+MK181886	segment 7	length 1002
+MK181887	segment 8	length 865
+>(A/Minnesota/49/2018)	H1N1	2018/09/07	23
+MK181996	segment 1	length 2316
+MK181997	segment 2	length 2316
+MK181998	segment 3	length 2208
+MK181999	segment 4	length 1752
+MK182000	segment 5	length 1540
+MK182001	segment 6	length 1433
+MK182002	segment 7	length 1002
+MK182003	segment 8	length 865
+>(A/Minnesota/50/2018)	H3N2	2018/09/10	24
+MK181864	segment 1	length 2316
+MK181865	segment 2	length 2316
+MK181866	segment 3	length 2208
+MK181867	segment 4	length 1737
+MK181868	segment 5	length 1541
+MK181869	segment 6	length 1441
+MK181870	segment 7	length 1002
+MK181871	segment 8	length 865
+>(A/Minnesota/51/2018)	H3N2	2018/10/17	25
+MK265400	segment 1	length 2316
+MK265401	segment 2	length 2316
+MK265402	segment 3	length 2208
+MK265403	segment 4	length 1737
+MK265404	segment 5	length 1541
+MK265405	segment 6	length 1441
+MK265406	segment 7	length 1002
+MK265407	segment 8	length 865
+>(A/Minnesota/53/2018)	H3N2	2018/11/03	26
+MK363326	segment 1	length 2316
+MK363327	segment 2	length 2316
+MK363328	segment 3	length 2209
+MK363329	segment 4	length 1737
+MK363330	segment 5	length 1542
+MK363331	segment 6	length 1441
+MK363332	segment 7	length 1002
+MK363333	segment 8	length 865
+>(B/Minnesota/10/2019)		2019/04/22	27
+MN156074	segment 1	length 2340
+MN156073	segment 2	length 2367
+MN156075	segment 3	length 2276
+MN156076	segment 4	length 1847
+MN156077	segment 5	length 1815
+MN156078	segment 6	length 1528
+MN156079	segment 7	length 1154
+MN156080	segment 8	length 1067
+>(B/Minnesota/11/2019)		2019/04/22	28
+MN156082	segment 1	length 2340
+MN156081	segment 2	length 2367
+MN156083	segment 3	length 2276
+MN156084	segment 4	length 1853
+MN156085	segment 5	length 1816
+MN156086	segment 6	length 1530
+MN156087	segment 7	length 1155
+MN156088	segment 8	length 1062
+>(B/Minnesota/12/2019)		2019/04/25	29
+MN156090	segment 1	length 2340
+MN156089	segment 2	length 2367
+MN156091	segment 3	length 2276
+MN156092	segment 4	length 1847
+MN156093	segment 5	length 1815
+MN156094	segment 6	length 1528
+MN156095	segment 7	length 1154
+MN156096	segment 8	length 1067
+>(B/Minnesota/13/2019)		2019/05/01	30
+MN156098	segment 1	length 2340
+MN156097	segment 2	length 2367
+MN156099	segment 3	length 2275
+MN156100	segment 4	length 1853
+MN156101	segment 5	length 1816
+MN156102	segment 6	length 1529
+MN156103	segment 7	length 1155
+MN156104	segment 8	length 1061
+>(B/Minnesota/26/2019)		2019/12/04	31
+MT030139	segment 1	length 2340
+MT030138	segment 2	length 2367
+MT030140	segment 3	length 2276
+MT030141	segment 4	length 1847
+MT030142	segment 5	length 1815
+MT030143	segment 6	length 1528
+MT030144	segment 7	length 1154
+MT030145	segment 8	length 1066
+>(A/Minnesota/65/2019)	H1N1	2019/12/04	32
+MT035174	segment 1	length 2316
+MT035175	segment 2	length 2316
+MT035176	segment 3	length 2208
+MT035177	segment 4	length 1752
+MT035178	segment 5	length 1540
+MT035179	segment 6	length 1433
+MT035180	segment 7	length 1002
+MT035181	segment 8	length 865
+>(A/Minnesota/67/2019)	H1N1	2019/12/07	33
+MT035190	segment 1	length 2316
+MT035191	segment 2	length 2316
+MT035192	segment 3	length 2208
+MT035193	segment 4	length 1752
+MT035194	segment 5	length 1540
+MT035195	segment 6	length 1433
+MT035196	segment 7	length 1002
+MT035197	segment 8	length 865
+>(B/Minnesota/22/2019)		2019/11/15	34
+MT049397	segment 1	length 2340
+MT049383	segment 2	length 2367
+MT049385	segment 3	length 2275
+MT049387	segment 4	length 1853
+MT049382	segment 5	length 1816
+MT049384	segment 6	length 1529
+MT049396	segment 7	length 1155
+MT049386	segment 8	length 1063
+>(B/Minnesota/29/2019)		2019/12/11	35
+MT057137	segment 1	length 2340
+MT057136	segment 2	length 2367
+MT057138	segment 3	length 2275
+MT057139	segment 4	length 1853
+MT057140	segment 5	length 1816
+MT057141	segment 6	length 1529
+MT057142	segment 7	length 1155
+MT057143	segment 8	length 1063
+>(B/Minnesota/30/2019)		2019/12/16	36
+MT057153	segment 1	length 2340
+MT057152	segment 2	length 2367
+MT057154	segment 3	length 2275
+MT057155	segment 4	length 1853
+MT057156	segment 5	length 1816
+MT057157	segment 6	length 1529
+MT057158	segment 7	length 1155
+MT057159	segment 8	length 1063
+>(B/Minnesota/31/2019)		2019/12/18	37
+MT057168	segment 1	length 2340
+MT057172	segment 2	length 2367
+MT057169	segment 3	length 2276
+MT057170	segment 4	length 1847
+MT057171	segment 5	length 1815
+MT057173	segment 6	length 1528
+MT057174	segment 7	length 1154
+MT057175	segment 8	length 1067
+>(B/Minnesota/32/2019)		2019/12/18	38
+MT057188	segment 1	length 2340
+MT057187	segment 2	length 2367
+MT057189	segment 3	length 2276
+MT057190	segment 4	length 1847
+MT057191	segment 5	length 1815
+MT057184	segment 6	length 1528
+MT057185	segment 7	length 1154
+MT057186	segment 8	length 1067
+>(A/Minnesota/01/2020)	H1N1	2020/01/01	39
+MT167893	segment 1	length 2316
+MT167894	segment 2	length 2316
+MT167895	segment 3	length 2208
+MT167896	segment 4	length 1752
+MT167897	segment 5	length 1540
+MT167898	segment 6	length 1433
+MT167899	segment 7	length 1002
+MT167900	segment 8	length 865
+>(A/Minnesota/72/2019)	H1N1	2019/12/28	40
+MT167909	segment 1	length 2316
+MT167910	segment 2	length 2316
+MT167911	segment 3	length 2208
+MT167912	segment 4	length 1753
+MT167913	segment 5	length 1540
+MT167914	segment 6	length 1433
+MT167915	segment 7	length 1002
+MT167916	segment 8	length 865
+>(A/Minnesota/76/2019)	H3N2	2019/12/31	41
+MT245775	segment 1	length 2316
+MT245776	segment 2	length 2316
+MT245777	segment 3	length 2209
+MT245778	segment 4	length 1737
+MT245779	segment 5	length 1541
+MT245780	segment 6	length 1441
+MT245781	segment 7	length 1002
+MT245782	segment 8	length 865
+>(B/Minnesota/07/2020)		2020/01/11	42
+MT243289	segment 1	length 2340
+MT243288	segment 2	length 2367
+MT243290	segment 3	length 2275
+MT243291	segment 4	length 1853
+MT243292	segment 5	length 1816
+MT243293	segment 6	length 1529
+MT243294	segment 7	length 1155
+MT243295	segment 8	length 1063
+>(A/Minnesota/04/2020)	H3N2	2020/01/24	43
+MT306442	segment 1	length 2316
+MT306443	segment 2	length 2316
+MT306444	segment 3	length 2209
+MT306445	segment 4	length 1737
+MT306446	segment 5	length 1541
+MT306447	segment 6	length 1441
+MT306448	segment 7	length 1002
+MT306449	segment 8	length 865
+>(A/Minnesota/05/2020)	H3N2	2020/01/27	44
+MT306458	segment 1	length 2316
+MT306459	segment 2	length 2316
+MT306460	segment 3	length 2208
+MT306461	segment 4	length 1737
+MT306462	segment 5	length 1542
+MT306463	segment 6	length 1441
+MT306464	segment 7	length 1002
+MT306465	segment 8	length 865
+>(B/Minnesota/01/2020)		2020/01/01	45
+MT315167	segment 1	length 2340
+MT315166	segment 2	length 2367
+MT315168	segment 3	length 2275
+MT315169	segment 4	length 1853
+MT315170	segment 5	length 1816
+MT315171	segment 6	length 1529
+MT315172	segment 7	length 1155
+MT315173	segment 8	length 1063
+>(B/Minnesota/03/2020)		2020/01/02	46
+MT315184	segment 1	length 2340
+MT315183	segment 2	length 2367
+MT315185	segment 3	length 2276
+MT315186	segment 4	length 1847
+MT315187	segment 5	length 1815
+MT315188	segment 6	length 1528
+MT315189	segment 7	length 1154
+MT315182	segment 8	length 1067
+>(B/Minnesota/33/2019)		2019/12/28	47
+MT315199	segment 1	length 2340
+MT315198	segment 2	length 2367
+MT315200	segment 3	length 2275
+MT315201	segment 4	length 1853
+MT315202	segment 5	length 1816
+MT315203	segment 6	length 1529
+MT315204	segment 7	length 1155
+MT315205	segment 8	length 1063
+>(A/Minnesota/16/2020)	H3N2	2020/02/27	48
+MT467138	segment 1	length 2316
+MT467139	segment 2	length 2316
+MT467140	segment 3	length 2208
+MT467141	segment 4	length 1737
+MT467142	segment 5	length 1541
+MT467143	segment 6	length 1441
+MT467144	segment 7	length 1002
+MT467145	segment 8	length 865
+>(A/Minnesota/02/2009(H1N1))	H1N1	2009/04/27	49
+GQ117070	segment 1	length 2280
+GQ117069	segment 2	length 2274
+GQ457488	segment 3	length 2151
+GQ338364	segment 4	length 1701
+GQ117068	segment 5	length 1497
+GQ117071	segment 6	length 1410
+GQ117073	segment 7	length 982
+GQ117072	segment 8	length 838
+>(A/Minnesota/15/2009(H1N1))	H1N1	2009/08/28	50
+KC780563	segment 1	length 2280
+KC780566	segment 2	length 2274
+KC780560	segment 3	length 2151
+KC780565	segment 4	length 1701
+KC780564	segment 5	length 1497
+KC780561	segment 6	length 1410
+KC780562	segment 7	length 982
+KC780559	segment 8	length 863
+>(A/Minnesota/40/2009(H1N1))	H1N1	2009/11/09	51
+KC782246	segment 1	length 2280
+KC782247	segment 2	length 2274
+KC782243	segment 3	length 2151
+KC782241	segment 4	length 1701
+KC782245	segment 5	length 1497
+KC782242	segment 6	length 1410
+KC782240	segment 7	length 982
+KC782244	segment 8	length 863
+>(A/Minnesota/16/2009(H1N1))	H1N1	2009/08/28	52
+KC782312	segment 1	length 2280
+KC782316	segment 2	length 2274
+KC782319	segment 3	length 2151
+KC782315	segment 4	length 1701
+KC782314	segment 5	length 1497
+KC782313	segment 6	length 1410
+KC782317	segment 7	length 982
+KC782318	segment 8	length 863
+>(A/Minnesota/03/2011(H1N1))	H1N1	2011/02/18	53
+KC881902	segment 1	length 2280
+KC881975	segment 1	length 2280
+KC881903	segment 2	length 2274
+KC881974	segment 2	length 2274
+KC881904	segment 3	length 2151
+KC881973	segment 3	length 2151
+KC881905	segment 4	length 1701
+KC881972	segment 4	length 1701
+KC881971	segment 5	length 1497
+KC882139	segment 5	length 1497
+KC881970	segment 6	length 1410
+KC882143	segment 6	length 1410
+KC881969	segment 7	length 982
+KC882144	segment 7	length 982
+KC881710	segment 8	length 863
+>(A/Minnesota/14/2012(H1N2))	H1N2	2012/12	54
+KJ620412	segment 1	length 2280
+KJ620413	segment 2	length 2274
+KJ620414	segment 3	length 2151
+KJ620415	segment 4	length 1698
+KJ620416	segment 5	length 1497
+KJ620417	segment 6	length 1410
+KJ620418	segment 7	length 982
+KJ620419	segment 8	length 838
+>(A/Minnesota/11/2010(H3N2))	H3N2	2010	55
+KJ942631	segment 1	length 2330
+KJ942630	segment 2	length 2332
+KJ942629	segment 3	length 2222
+KJ942624	segment 4	length 1757
+KJ942627	segment 5	length 1564
+KJ942626	segment 6	length 1454
+KJ942625	segment 7	length 1027
+KJ942628	segment 8	length 879
+>(A/Minnesota/32/2015(H1N1))	H1N1	2015/07/09	56
+KT836635	segment 1	length 2280
+KT836722	segment 2	length 2274
+KT836711	segment 3	length 2151
+KT836712	segment 4	length 1701
+KT836639	segment 5	length 1497
+KT836533	segment 6	length 1410
+KT836641	segment 7	length 982
+KT836642	segment 8	length 863
+>(A/Minnesota/04/2015(H1N1))	H1N1	2015/02/12	57
+KT836748	segment 1	length 2280
+KT836778	segment 2	length 2274
+KT836772	segment 3	length 2151
+KT836745	segment 4	length 1701
+KT836788	segment 5	length 1497
+KT836800	segment 6	length 1410
+KT836747	segment 7	length 982
+KT836814	segment 8	length 838
+>(A/Minnesota/31/2014(H3N2))	H3N2	2014/10/28	58
+KT837506	segment 1	length 2280
+KT837438	segment 2	length 2274
+KT837408	segment 3	length 2151
+KT837740	segment 4	length 1701
+KT837503	segment 5	length 1497
+KT837766	segment 6	length 1410
+KT837468	segment 7	length 982
+KT837389	segment 8	length 838
+>(A/Minnesota/28/2014(H3N2))	H3N2	2014/10/18	59
+KT838296	segment 1	length 2280
+KT838172	segment 2	length 2274
+KT838220	segment 3	length 2151
+KT838150	segment 4	length 1701
+KT838199	segment 5	length 1497
+KT838236	segment 6	length 1410
+KT838194	segment 7	length 982
+KT838190	segment 8	length 838
+>(A/Minnesota/36/2014(H3N2))	H3N2	2014/11/23	60
+KT838463	segment 1	length 2280
+KT838488	segment 2	length 2274
+KT838413	segment 3	length 2151
+KT838415	segment 4	length 1701
+KT838512	segment 5	length 1497
+KT838471	segment 6	length 1410
+KT838508	segment 7	length 982
+KT838439	segment 8	length 838
+>(A/Minnesota/41/2014(H3N2))	H3N2	2014/11/23	61
+KT839391	segment 1	length 2280
+KT838470	segment 2	length 2274
+KT839378	segment 3	length 2151
+KT838474	segment 4	length 1701
+KT838476	segment 5	length 1497
+KT838482	segment 6	length 1410
+KT838433	segment 7	length 982
+KT838821	segment 8	length 838
+>(A/Minnesota/35/2014(H3N2))	H3N2	2014/11/29	62
+KT838480	segment 1	length 2280
+KT838506	segment 2	length 2274
+KT838478	segment 3	length 2151
+KT838441	segment 4	length 1701
+KT838435	segment 5	length 1497
+KT838534	segment 6	length 1410
+KT838481	segment 7	length 982
+KT838472	segment 8	length 838
+>(A/Minnesota/34/2014(H3N2))	H3N2	2014/11/12	63
+KT839050	segment 1	length 2280
+KT838675	segment 2	length 2274
+KT838637	segment 3	length 2151
+KT839159	segment 4	length 1701
+KT838661	segment 5	length 1497
+KT838467	segment 6	length 1410
+KT838789	segment 7	length 982
+KT838798	segment 8	length 838
+>(A/Minnesota/37/2014(H3N2))	H3N2	2014/11/16	64
+KT838892	segment 1	length 2280
+KT838640	segment 2	length 2274
+KT838849	segment 3	length 2151
+KT838769	segment 4	length 1701
+KT838802	segment 5	length 1497
+KT839188	segment 6	length 1410
+KT838710	segment 7	length 982
+KT838755	segment 8	length 838
+>(A/Minnesota/38/2014(H3N2))	H3N2	2014/12/07	65
+KT839647	segment 1	length 2280
+KT839692	segment 2	length 2274
+KT839744	segment 3	length 2151
+KT839593	segment 4	length 1701
+KT839606	segment 5	length 1497
+KT839703	segment 6	length 1410
+KT839693	segment 7	length 982
+KT839658	segment 8	length 838
+>(A/Minnesota/39/2014(H3N2))	H3N2	2014/12/04	66
+KT839791	segment 1	length 2280
+KT839784	segment 2	length 2274
+KT839841	segment 3	length 2151
+KT839664	segment 4	length 1701
+KT840191	segment 5	length 1497
+KT839798	segment 6	length 1410
+KT839708	segment 7	length 982
+KT839750	segment 8	length 838
+>(A/Minnesota/02/2015(H3N2))	H3N2	2015/01/07	67
+KT841364	segment 1	length 2280
+KT841380	segment 2	length 2274
+KT841135	segment 3	length 2151
+KT841133	segment 4	length 1701
+KT841165	segment 5	length 1497
+KT841943	segment 6	length 1410
+KT841290	segment 7	length 982
+KT841220	segment 8	length 838
+>(A/Minnesota/01/2015(H3N2))	H3N2	2015/01/04	68
+KT841272	segment 1	length 2280
+KT841249	segment 2	length 2274
+KT841377	segment 3	length 2151
+KT841630	segment 4	length 1701
+KT841312	segment 5	length 1497
+KT841179	segment 6	length 1410
+KT841335	segment 7	length 982
+KT841273	segment 8	length 838
+>(A/Minnesota/23/2015(H3N2))	H3N2	2015/02/19	69
+KT842277	segment 1	length 2280
+KT842278	segment 2	length 2274
+KT842279	segment 3	length 2151
+KT842280	segment 4	length 1701
+KT842281	segment 5	length 1497
+KT842282	segment 6	length 1410
+KT842283	segment 7	length 982
+KT842284	segment 8	length 838
+>(A/Minnesota/28/2015(H3N2))	H3N2	2015/04/21	70
+KT843342	segment 1	length 2280
+KT843455	segment 2	length 2274
+KT843353	segment 3	length 2151
+KT843478	segment 4	length 1701
+KT843445	segment 5	length 1497
+KT843406	segment 6	length 1410
+KT843397	segment 7	length 982
+KT843420	segment 8	length 838
+>(A/Minnesota/27/2015(H3N2))	H3N2	2015/04/12	71
+KT843456	segment 1	length 2280
+KT843482	segment 2	length 2274
+KT843526	segment 3	length 2151
+KT843370	segment 4	length 1701
+KT843417	segment 5	length 1497
+KT843510	segment 6	length 1410
+KT843495	segment 7	length 982
+KT843496	segment 8	length 838
+>(A/Minnesota/25/2015(H3N2))	H3N2	2015/04/01	72
+KT843465	segment 1	length 2280
+KT843377	segment 2	length 2274
+KT843426	segment 3	length 2151
+KT843469	segment 4	length 1701
+KT843481	segment 5	length 1497
+KT843471	segment 6	length 1410
+KT843399	segment 7	length 982
+KT843454	segment 8	length 838
+>(A/Minnesota/26/2015(H3N2))	H3N2	2015/04/02	73
+KT843500	segment 1	length 2280
+KT843501	segment 2	length 2274
+KT843383	segment 3	length 2151
+KT843387	segment 4	length 1701
+KT843504	segment 5	length 1497
+KT843505	segment 6	length 1410
+KT843398	segment 7	length 982
+KT843507	segment 8	length 838
+>(A/Minnesota/30/2015(H3N2))	H3N2	2015/05/18	74
+KT844379	segment 1	length 2280
+KT843561	segment 2	length 2274
+KT843594	segment 3	length 2151
+KT844383	segment 4	length 1701
+KT843544	segment 5	length 1497
+KT844390	segment 6	length 1410
+KT844385	segment 7	length 982
+KT844397	segment 8	length 838
+>(A/Minnesota/29/2015(H3N2))	H3N2	2015/05/16	75
+KT844303	segment 1	length 2280
+KT844322	segment 2	length 2274
+KT844302	segment 3	length 2151
+KT844324	segment 4	length 1701
+KT844332	segment 5	length 1497
+KT844327	segment 6	length 1410
+KT844321	segment 7	length 982
+KT844301	segment 8	length 838
+>(B/Minnesota/18/2015)		2015/05/19	76
+KT853554	segment 1	length 2274
+KT853555	segment 2	length 2313
+KT853556	segment 3	length 2181
+KT853557	segment 4	length 1758
+KT853558	segment 5	length 1683
+KT853559	segment 6	length 1408
+KT853560	segment 7	length 1139
+KT853561	segment 8	length 1034
+>(B/Minnesota/10/2015)		2015/04/02	77
+KT853782	segment 1	length 2274
+KT853766	segment 2	length 2313
+KT853742	segment 3	length 2181
+KT853786	segment 4	length 1758
+KT853934	segment 5	length 1683
+KT853790	segment 6	length 1408
+KT853758	segment 7	length 1139
+KT853740	segment 8	length 1034
+>(B/Minnesota/11/2015)		2015/02/27	78
+KT854601	segment 1	length 2259
+KT854476	segment 2	length 2313
+KT854287	segment 3	length 2181
+KT854498	segment 4	length 1755
+KT854719	segment 5	length 1683
+KT854404	segment 6	length 1408
+KT854502	segment 7	length 1140
+KT854425	segment 8	length 1024
+>(B/Minnesota/12/2015)		2015/03/03	79
+KT854309	segment 1	length 2259
+KT854450	segment 2	length 2313
+KT854397	segment 3	length 2181
+KT854406	segment 4	length 1755
+KT854725	segment 5	length 1683
+KT854472	segment 6	length 1408
+KT854484	segment 7	length 1140
+KT854420	segment 8	length 1024
+>(B/Minnesota/09/2015)		2015/03/11	80
+KT854720	segment 1	length 2259
+KT854822	segment 2	length 2313
+KT854887	segment 3	length 2181
+KT854929	segment 4	length 1755
+KT854790	segment 5	length 1683
+KT854811	segment 6	length 1408
+KT854823	segment 7	length 1140
+KT854736	segment 8	length 1024
+>(B/Minnesota/13/2015)		2015/04/10	81
+KT866530	segment 1	length 2259
+KT865970	segment 2	length 2313
+KT866536	segment 3	length 2181
+KT865972	segment 4	length 1755
+KT866657	segment 5	length 1683
+KT865974	segment 6	length 1408
+KT866547	segment 7	length 1140
+KT866549	segment 8	length 1024
+>(B/Minnesota/21/2015)		2015/06/04	82
+KT866951	segment 1	length 2259
+KT866952	segment 2	length 2313
+KT866023	segment 3	length 2181
+KT866953	segment 4	length 1755
+KT866024	segment 5	length 1683
+KT866954	segment 6	length 1408
+KT866955	segment 7	length 1140
+KT866956	segment 8	length 1024
+>(B/Minnesota/19/2015)		2015/05/21	83
+KT866060	segment 1	length 2259
+KT866061	segment 2	length 2313
+KT866062	segment 3	length 2181
+KT866063	segment 4	length 1755
+KT866064	segment 5	length 1683
+KT866065	segment 6	length 1408
+KT866066	segment 7	length 1140
+KT866067	segment 8	length 1024
+>(B/Minnesota/02/2015)		2015/04/07	84
+KT866725	segment 1	length 2259
+KT866728	segment 2	length 2313
+KT866641	segment 3	length 2181
+KT866751	segment 4	length 1755
+KT867000	segment 5	length 1683
+KT866683	segment 6	length 1408
+KT866682	segment 7	length 1140
+KT866742	segment 8	length 1024
+>(A/Minnesota/45/2015(H1N1))	H1N1	2015/10/12	85
+KU509916	segment 1	length 2280
+KU509917	segment 2	length 2274
+KU509918	segment 3	length 2151
+KU509919	segment 4	length 1701
+KU509920	segment 5	length 1497
+KU509921	segment 6	length 1410
+KU509922	segment 7	length 982
+KU509923	segment 8	length 863
+>(A/Minnesota/48/2015(H1N1))	H1N1	2015/11/17	86
+KU589344	segment 1	length 2316
+KU589345	segment 2	length 2316
+KU589346	segment 3	length 2208
+KU589347	segment 4	length 1752
+KU589348	segment 5	length 1540
+KU589349	segment 6	length 1433
+KU589350	segment 7	length 1002
+KU589351	segment 8	length 865
+>(A/Minnesota/42/2015(H3N2))	H3N2	2015/09/14	87
+KU590600	segment 1	length 2280
+KU590601	segment 2	length 2274
+KU590397	segment 3	length 2151
+KU590398	segment 4	length 1701
+KU590399	segment 5	length 1497
+KU590602	segment 6	length 1410
+KU590400	segment 7	length 982
+KU590401	segment 8	length 838
+>(A/Minnesota/43/2015(H3N2))	H3N2	2015/09/17	88
+KU590402	segment 1	length 2280
+KU590403	segment 2	length 2274
+KU590404	segment 3	length 2151
+KU590405	segment 4	length 1701
+KU590406	segment 5	length 1497
+KU590407	segment 6	length 1410
+KU590408	segment 7	length 982
+KU590409	segment 8	length 838
+>(A/Minnesota/47/2015(H3N2))	H3N2	2015/11/16	89
+KU591935	segment 1	length 2280
+KU591936	segment 2	length 2274
+KU591937	segment 3	length 2151
+KU591938	segment 4	length 1701
+KU591939	segment 5	length 1497
+KU591940	segment 6	length 1410
+KU591941	segment 7	length 982
+KU591942	segment 8	length 838
+>(A/Minnesota/40/2015(H3N2))	H3N2	2015/09/01	90
+KX003895	segment 1	length 2280
+KX003896	segment 2	length 2274
+KX003897	segment 3	length 2151
+KX003898	segment 4	length 1701
+KX003899	segment 5	length 1497
+KX003900	segment 6	length 1410
+KX003901	segment 7	length 982
+KX003902	segment 8	length 838
+>(A/Minnesota/49/2015(H1N1))	H1N1	2015/11/16	91
+KX004046	segment 1	length 2316
+KX004047	segment 2	length 2316
+KX004048	segment 3	length 2208
+KX004049	segment 4	length 1752
+KX004050	segment 5	length 1540
+KX004051	segment 6	length 1433
+KX004052	segment 7	length 1002
+KX004053	segment 8	length 865
+>(A/Minnesota/50/2015(H1N1))	H1N1	2015/11/17	92
+KX004054	segment 1	length 2316
+KX004055	segment 2	length 2316
+KX004056	segment 3	length 2208
+KX004057	segment 4	length 1752
+KX004058	segment 5	length 1540
+KX004059	segment 6	length 1433
+KX004060	segment 7	length 1002
+KX004061	segment 8	length 865
+>(A/Minnesota/53/2015(H1N1))	H1N1	2015/12/15	93
+KX004290	segment 1	length 2316
+KX004291	segment 2	length 2316
+KX004292	segment 3	length 2208
+KX004293	segment 4	length 1752
+KX004294	segment 5	length 1540
+KX004295	segment 6	length 1433
+KX004296	segment 7	length 1002
+KX004297	segment 8	length 865
+>(A/Minnesota/58/2015(H1N1))	H1N1	2015/12/23	94
+KX004807	segment 1	length 2316
+KX004808	segment 2	length 2316
+KX004809	segment 3	length 2208
+KX004810	segment 4	length 1752
+KX004811	segment 5	length 1540
+KX004812	segment 6	length 1433
+KX004813	segment 7	length 1002
+KX004814	segment 8	length 865
+>(A/Minnesota/08/2016(H1N1))	H1N1	2016/01/19	95
+KX005343	segment 1	length 2316
+KX005344	segment 2	length 2316
+KX005345	segment 3	length 2208
+KX005346	segment 4	length 1752
+KX005347	segment 5	length 1540
+KX005348	segment 6	length 1434
+KX005349	segment 7	length 1002
+KX005350	segment 8	length 865
+>(A/Minnesota/02/2016(H1N1))	H1N1	2016/01/25	96
+KX005351	segment 1	length 2316
+KX005352	segment 2	length 2316
+KX005353	segment 3	length 2208
+KX005354	segment 4	length 1754
+KX005355	segment 5	length 1540
+KX005356	segment 6	length 1433
+KX005357	segment 7	length 1002
+KX005358	segment 8	length 865
+>(A/Minnesota/57/2015(H1N1))	H1N1	2015/12/24	97
+KX005798	segment 1	length 2316
+KX005799	segment 2	length 2316
+KX005800	segment 3	length 2208
+KX005801	segment 4	length 1752
+KX005802	segment 5	length 1540
+KX005803	segment 6	length 1433
+KX005804	segment 7	length 1002
+KX005805	segment 8	length 865
+>(A/Minnesota/56/2015(H1N1))	H1N1	2015/12/17	98
+KX005822	segment 1	length 2316
+KX005823	segment 2	length 2316
+KX005824	segment 3	length 2208
+KX005825	segment 4	length 1752
+KX005826	segment 5	length 1540
+KX005827	segment 6	length 1433
+KX005828	segment 7	length 1002
+KX005829	segment 8	length 865
+>(A/Minnesota/10/2016(H1N1))	H1N1	2016/01/30	99
+KX006327	segment 1	length 2316
+KX006328	segment 2	length 2316
+KX006329	segment 3	length 2208
+KX006330	segment 4	length 1752
+KX006331	segment 5	length 1540
+KX006332	segment 6	length 1433
+KX006333	segment 7	length 1002
+KX006334	segment 8	length 865
+>(B/Minnesota/01/2016)		2016/01/16	100
+KX006681	segment 1	length 2341
+KX006682	segment 2	length 2367
+KX006683	segment 3	length 2275
+KX006684	segment 4	length 1853
+KX006685	segment 5	length 1815
+KX006686	segment 6	length 1530
+KX006687	segment 7	length 1155
+KX006688	segment 8	length 1062
+>(B/Minnesota/25/2015)		2015/12/19	101
+KX007300	segment 1	length 2340
+KX007301	segment 2	length 2367
+KX007302	segment 3	length 2275
+KX007303	segment 4	length 1853
+KX007304	segment 5	length 1815
+KX007305	segment 6	length 1530
+KX007306	segment 7	length 1155
+KX007307	segment 8	length 1062
+>(A/Minnesota/52/2015(H3N2))	H3N2	2015/12/13	102
+KX413558	segment 1	length 2316
+KX413559	segment 2	length 2316
+KX413560	segment 3	length 2208
+KX413561	segment 4	length 1737
+KX413562	segment 5	length 1541
+KX413563	segment 6	length 1441
+KX413564	segment 7	length 1002
+KX413565	segment 8	length 865
+>(A/Minnesota/09/2016(H3N2))	H3N2	2016/01/20	103
+KX414238	segment 1	length 2316
+KX414239	segment 2	length 2316
+KX414240	segment 3	length 2209
+KX414241	segment 4	length 1737
+KX414242	segment 5	length 1541
+KX414243	segment 6	length 1441
+KX414244	segment 7	length 1002
+KX414245	segment 8	length 865
+>(A/Minnesota/61/2015(H3N2))	H3N2	2015/12/27	104
+KX414606	segment 1	length 2316
+KX414614	segment 1	length 2316
+KX414607	segment 2	length 2316
+KX414615	segment 2	length 2316
+KX414608	segment 3	length 2208
+KX414616	segment 3	length 2208
+KX414609	segment 4	length 1737
+KX414617	segment 4	length 1737
+KX414610	segment 5	length 1542
+KX414618	segment 5	length 1554
+KX414611	segment 6	length 1441
+KX414619	segment 6	length 1441
+KX414612	segment 7	length 1002
+KX414620	segment 7	length 1002
+KX414613	segment 8	length 865
+>(A/Minnesota/13/2016(H3N2))	H3N2	2016/02/10	105
+KX415061	segment 1	length 2316
+KX415062	segment 2	length 2316
+KX415063	segment 3	length 2208
+KX415064	segment 4	length 1737
+KX415065	segment 5	length 1541
+KX415066	segment 6	length 1440
+KX415067	segment 7	length 1002
+KX415068	segment 8	length 865
+>(A/Minnesota/28/2016(H3N2))	H3N2	2016/02/28	106
+KX415573	segment 1	length 2316
+KX415574	segment 2	length 2316
+KX415575	segment 3	length 2208
+KX415576	segment 4	length 1737
+KX415577	segment 5	length 1541
+KX415578	segment 6	length 1441
+KX415579	segment 7	length 1002
+KX415580	segment 8	length 865
+>(A/Minnesota/30/2016(H3N2))	H3N2	2016/03/05	107
+KX415581	segment 1	length 2316
+KX415582	segment 2	length 2316
+KX415583	segment 3	length 2208
+KX415584	segment 4	length 1737
+KX415585	segment 5	length 1541
+KX415586	segment 6	length 1441
+KX415587	segment 7	length 1002
+KX415588	segment 8	length 865
+>(A/Minnesota/43/2016(H3N2))	H3N2	2016/03/28	108
+KX416405	segment 1	length 2316
+KX416406	segment 2	length 2316
+KX416407	segment 3	length 2204
+KX416408	segment 4	length 1737
+KX416409	segment 5	length 1541
+KX416410	segment 6	length 1441
+KX416411	segment 7	length 1002
+KX416412	segment 8	length 865
+>(A/Minnesota/59/2016(H3N2))	H3N2	2016/04/24	109
+KX416997	segment 1	length 2316
+KX416998	segment 2	length 2316
+KX416999	segment 3	length 2209
+KX417000	segment 4	length 1737
+KX417001	segment 5	length 1541
+KX417002	segment 6	length 1442
+KX417003	segment 7	length 1002
+KX417004	segment 8	length 865
+>(A/Minnesota/59/2015(H1N1))	H1N1	2015/12/29	110
+KX405976	segment 1	length 2316
+KX405977	segment 2	length 2316
+KX405978	segment 3	length 2208
+KX405979	segment 4	length 1754
+KX405980	segment 5	length 1540
+KX405981	segment 6	length 1433
+KX405982	segment 7	length 1002
+KX405983	segment 8	length 865
+>(A/Minnesota/01/2016(H1N1))	H1N1	2016/01/06	111
+KX405984	segment 1	length 2316
+KX405985	segment 2	length 2316
+KX405986	segment 3	length 2208
+KX405987	segment 4	length 1752
+KX405988	segment 5	length 1540
+KX405989	segment 6	length 1433
+KX405990	segment 7	length 1002
+KX405991	segment 8	length 865
+>(A/Minnesota/14/2016(H1N1))	H1N1	2016/02/16	112
+KX407264	segment 1	length 2316
+KX407265	segment 2	length 2316
+KX407266	segment 3	length 2208
+KX407267	segment 4	length 1752
+KX407268	segment 5	length 1540
+KX407269	segment 6	length 1434
+KX407270	segment 7	length 1002
+KX407271	segment 8	length 865
+>(A/Minnesota/15/2016(H1N1))	H1N1	2016/02/17	113
+KX407272	segment 1	length 2316
+KX407273	segment 2	length 2316
+KX407274	segment 3	length 2208
+KX407275	segment 4	length 1752
+KX407276	segment 5	length 1540
+KX407277	segment 6	length 1433
+KX407278	segment 7	length 1002
+KX407279	segment 8	length 865
+>(A/Minnesota/29/2016(H1N1))	H1N1	2016/03/03	114
+KX407936	segment 1	length 2316
+KX407937	segment 2	length 2316
+KX407938	segment 3	length 2208
+KX407939	segment 4	length 1752
+KX407940	segment 5	length 1540
+KX407941	segment 6	length 1433
+KX407942	segment 7	length 1002
+KX407943	segment 8	length 865
+>(A/Minnesota/06/2016(H1N1))	H1N1	2016/02/11	115
+KX408648	segment 1	length 2316
+KX408649	segment 2	length 2316
+KX408650	segment 3	length 2208
+KX408651	segment 4	length 1752
+KX408652	segment 5	length 1540
+KX408653	segment 6	length 1434
+KX408654	segment 7	length 1002
+KX408655	segment 8	length 865
+>(A/Minnesota/07/2016(H1N1))	H1N1	2016/02/11	116
+KX408656	segment 1	length 2316
+KX408657	segment 2	length 2316
+KX408658	segment 3	length 2208
+KX408659	segment 4	length 1752
+KX408660	segment 5	length 1540
+KX408661	segment 6	length 1434
+KX408662	segment 7	length 1002
+KX408663	segment 8	length 865
+>(A/Minnesota/38/2016(H1N1))	H1N1	2016/03/17	117
+KX410216	segment 1	length 2316
+KX410217	segment 2	length 2316
+KX410218	segment 3	length 2208
+KX410219	segment 4	length 1752
+KX410220	segment 5	length 1540
+KX410221	segment 6	length 1435
+KX410222	segment 7	length 1002
+KX410223	segment 8	length 865
+>(A/Minnesota/40/2016(H1N1))	H1N1	2016/03/20	118
+KX410224	segment 1	length 2316
+KX410225	segment 2	length 2316
+KX410226	segment 3	length 2208
+KX410227	segment 4	length 1752
+KX410228	segment 5	length 1541
+KX410229	segment 6	length 1434
+KX410230	segment 7	length 1002
+KX410231	segment 8	length 865
+>(A/Minnesota/44/2016(H1N1))	H1N1	2016/03/31	119
+KX410768	segment 1	length 2316
+KX410769	segment 2	length 2316
+KX410770	segment 3	length 2208
+KX410771	segment 4	length 1752
+KX410772	segment 5	length 1540
+KX410773	segment 6	length 1433
+KX410774	segment 7	length 1002
+KX410775	segment 8	length 865
+>(B/Minnesota/10/2016)		2016/03/16	120
+KX616467	segment 1	length 2340
+KX616468	segment 2	length 2367
+KX616469	segment 3	length 2275
+KX616470	segment 4	length 1853
+KX616471	segment 5	length 1815
+KX616472	segment 6	length 1530
+KX616473	segment 7	length 1155
+KX616474	segment 8	length 1062
+>(B/Minnesota/17/2016)		2016/04/13	121
+KX617604	segment 1	length 2340
+KX617605	segment 2	length 2367
+KX617606	segment 3	length 2275
+KX617607	segment 4	length 1853
+KX617608	segment 5	length 1815
+KX617609	segment 6	length 1530
+KX617610	segment 7	length 1154
+KX617611	segment 8	length 1062
+>(B/Minnesota/04/2016)		2016/02/06	122
+KX612097	segment 1	length 2340
+KX612098	segment 2	length 2367
+KX612099	segment 3	length 2276
+KX612100	segment 4	length 1856
+KX612101	segment 5	length 1815
+KX612102	segment 6	length 1528
+KX612103	segment 7	length 1154
+KX612104	segment 8	length 1066
+>(A/Minnesota/61/2016(H1N1))	H1N1	2016/04/04	123
+KX915585	segment 1	length 2316
+KX915586	segment 2	length 2316
+KX915587	segment 3	length 2208
+KX915588	segment 4	length 1752
+KX915589	segment 5	length 1540
+KX915590	segment 6	length 1433
+KX915591	segment 7	length 1002
+KX915592	segment 8	length 865
+>(A/Minnesota/67/2016(H1N1))	H1N1	2016/04/18	124
+KX915593	segment 1	length 2316
+KX915594	segment 2	length 2316
+KX915595	segment 3	length 2208
+KX915596	segment 4	length 1752
+KX915597	segment 5	length 1540
+KX915598	segment 6	length 1433
+KX915599	segment 7	length 1002
+KX915600	segment 8	length 865
+>(A/Minnesota/71/2016(H3N2))	H3N2	2016/06/23	125
+KX916465	segment 1	length 2316
+KX916466	segment 2	length 2316
+KX916467	segment 3	length 2208
+KX916468	segment 4	length 1737
+KX916469	segment 5	length 1542
+KX916470	segment 6	length 1441
+KX916471	segment 7	length 1002
+KX916472	segment 8	length 865
+>(A/Minnesota/65/2016(H3N2))	H3N2	2016/04/15	126
+KX917481	segment 1	length 2316
+KX917482	segment 2	length 2316
+KX917483	segment 3	length 2209
+KX917484	segment 4	length 1737
+KX917485	segment 5	length 1541
+KX917486	segment 6	length 1441
+KX917487	segment 7	length 1002
+KX917488	segment 8	length 865
+>(A/Minnesota/63/2016(H3N2))	H3N2	2016/04/07	127
+KX917841	segment 1	length 2316
+KX917842	segment 2	length 2316
+KX917843	segment 3	length 2209
+KX917844	segment 4	length 1737
+KX917845	segment 5	length 1541
+KX917846	segment 6	length 1441
+KX917847	segment 7	length 1002
+KX917848	segment 8	length 865
+>(A/Minnesota/69/2016(H3N2))	H3N2	2016/04/11	128
+KX917849	segment 1	length 2316
+KX917850	segment 2	length 2316
+KX917851	segment 3	length 2209
+KX917852	segment 4	length 1737
+KX917853	segment 5	length 1541
+KX917854	segment 6	length 1435
+KX917855	segment 7	length 1002
+KX917856	segment 8	length 865
+>(B/Minnesota/24/2016)		2016/05/08	129
+KX919837	segment 1	length 2340
+KX919838	segment 2	length 2367
+KX919839	segment 3	length 2275
+KX919840	segment 4	length 1853
+KX919841	segment 5	length 1814
+KX919842	segment 6	length 1530
+KX919843	segment 7	length 1154
+KX919844	segment 8	length 1062
+>(B/Minnesota/25/2016)		2016/05/27	130
+KX920237	segment 1	length 2340
+KX920238	segment 2	length 2367
+KX920239	segment 3	length 2276
+KX920240	segment 4	length 1856
+KX920241	segment 5	length 1815
+KX920242	segment 6	length 1528
+KX920243	segment 7	length 1154
+KX920244	segment 8	length 1066
+>(B/Minnesota/09/2016)		2016/03/13	131
+KX920757	segment 1	length 2340
+KX920758	segment 2	length 2367
+KX920759	segment 3	length 2276
+KX920760	segment 4	length 1856
+KX920761	segment 5	length 1815
+KX920762	segment 6	length 1528
+KX920763	segment 7	length 1154
+KX920764	segment 8	length 1066
+>(B/Minnesota/13/2016)		2016/03/29	132
+KX921029	segment 1	length 2340
+KX921030	segment 2	length 2367
+KX921031	segment 3	length 2276
+KX921032	segment 4	length 1856
+KX921033	segment 5	length 1815
+KX921034	segment 6	length 1528
+KX921035	segment 7	length 1154
+KX921036	segment 8	length 1066
+>(B/Minnesota/22/2016)		2016/04/24	133
+KX921813	segment 1	length 2340
+KX921814	segment 2	length 2367
+KX921815	segment 3	length 2276
+KX921816	segment 4	length 1856
+KX921817	segment 5	length 1815
+KX921818	segment 6	length 1528
+KX921819	segment 7	length 1154
+KX921820	segment 8	length 1066
+>(A/Minnesota/72/2016(H3N2))	H3N2	2016/10/02	134
+KY116339	segment 1	length 2316
+KY116340	segment 2	length 2316
+KY116341	segment 3	length 2208
+KY116342	segment 4	length 1737
+KY116343	segment 5	length 1542
+KY116344	segment 6	length 1441
+KY116345	segment 7	length 1002
+KY116346	segment 8	length 865
+>(A/Minnesota/74/2016(H3N2))	H3N2	2016/10/05	135
+KY116643	segment 1	length 2316
+KY116644	segment 2	length 2316
+KY116645	segment 3	length 2208
+KY116646	segment 4	length 1737
+KY116647	segment 5	length 1541
+KY116648	segment 6	length 1441
+KY116649	segment 7	length 1002
+KY116650	segment 8	length 865
+>(A/Minnesota/75/2016(H3N2))	H3N2	2016/10/10	136
+KY116651	segment 1	length 2316
+KY116652	segment 2	length 2316
+KY116653	segment 3	length 2208
+KY116654	segment 4	length 1737
+KY116655	segment 5	length 1541
+KY116656	segment 6	length 1441
+KY116657	segment 7	length 1002
+KY116658	segment 8	length 865
+>(A/Minnesota/76/2016(H3N2))	H3N2	2016/10/25	137
+KY289354	segment 1	length 2316
+KY289479	segment 2	length 2316
+KY289451	segment 3	length 2208
+KY289475	segment 4	length 1737
+KY289346	segment 5	length 1542
+KY289351	segment 6	length 1441
+KY289408	segment 7	length 1002
+KY289418	segment 8	length 865
+>(A/Minnesota/77/2016(H3N2))	H3N2	2016/10/27	138
+KY289481	segment 1	length 2316
+KY289443	segment 2	length 2316
+KY289414	segment 3	length 2208
+KY289457	segment 4	length 1737
+KY289474	segment 5	length 1542
+KY289417	segment 6	length 1441
+KY289425	segment 7	length 1002
+KY289415	segment 8	length 865
+>(A/Minnesota/78/2016(H3N2))	H3N2	2016/11/03	139
+CY209357	segment 1	length 2316
+CY209358	segment 2	length 2316
+CY209359	segment 3	length 2208
+CY209360	segment 4	length 1737
+CY209361	segment 5	length 1541
+CY209362	segment 6	length 1441
+CY209363	segment 7	length 1002
+CY209364	segment 8	length 865
+>(A/Minnesota/79/2016(H3N2))	H3N2	2016/11/12	140
+CY209365	segment 1	length 2316
+CY209366	segment 2	length 2316
+CY209367	segment 3	length 2208
+CY209368	segment 4	length 1737
+CY209369	segment 5	length 1541
+CY209370	segment 6	length 1441
+CY209371	segment 7	length 1002
+CY209372	segment 8	length 865
+>(B/Minnesota/26/2016)		2016/11/11	141
+CY209738	segment 1	length 2340
+CY209739	segment 2	length 2367
+CY209740	segment 3	length 2276
+CY209741	segment 4	length 1856
+CY209742	segment 5	length 1815
+CY209743	segment 6	length 1528
+CY209744	segment 7	length 1154
+CY209745	segment 8	length 1066
+>(A/Minnesota/80/2016(H3N2))	H3N2	2016/11/12	142
+CY211752	segment 1	length 2316
+CY211753	segment 2	length 2316
+CY211754	segment 3	length 2208
+CY211755	segment 4	length 1737
+CY211756	segment 5	length 1541
+CY211757	segment 6	length 1441
+CY211758	segment 7	length 1002
+CY211759	segment 8	length 865
+>(A/Minnesota/82/2016(H3N2))	H3N2	2016/12/07	143
+CY212375	segment 1	length 2316
+CY212376	segment 2	length 2316
+CY212377	segment 3	length 2208
+CY212378	segment 4	length 1737
+CY212379	segment 5	length 1541
+CY212380	segment 6	length 1441
+CY212381	segment 7	length 1002
+CY212382	segment 8	length 865
+>(A/Minnesota/83/2016(H3N2))	H3N2	2016/12/11	144
+CY212383	segment 1	length 2316
+CY212384	segment 2	length 2316
+CY212385	segment 3	length 2208
+CY212386	segment 4	length 1737
+CY212387	segment 5	length 1542
+CY212388	segment 6	length 1441
+CY212389	segment 7	length 1002
+CY212390	segment 8	length 865
+>(A/Minnesota/85/2016(H3N2))	H3N2	2016/12/19	145
+CY213127	segment 1	length 2316
+CY213128	segment 2	length 2316
+CY213129	segment 3	length 2208
+CY213130	segment 4	length 1737
+CY213131	segment 5	length 1541
+CY213132	segment 6	length 1441
+CY213133	segment 7	length 1002
+CY213134	segment 8	length 865
+>(A/Minnesota/02/2017(H3N2))	H3N2	2017/01/07	146
+CY214847	segment 1	length 2316
+CY214848	segment 2	length 2316
+CY214849	segment 3	length 2208
+CY214850	segment 4	length 1737
+CY214851	segment 5	length 1542
+CY214852	segment 6	length 1441
+CY214853	segment 7	length 1002
+CY214854	segment 8	length 865
+>(A/Minnesota/03/2017(H3N2))	H3N2	2017/01/09	147
+CY214855	segment 1	length 2316
+CY214856	segment 2	length 2316
+CY214857	segment 3	length 2208
+CY214858	segment 4	length 1737
+CY214859	segment 5	length 1542
+CY214860	segment 6	length 1441
+CY214861	segment 7	length 1002
+CY214862	segment 8	length 865
+>(A/Minnesota/01/2017(H1N1))	H1N1	2017/01/03	148
+CY216894	segment 1	length 2316
+CY216895	segment 2	length 2316
+CY216896	segment 3	length 2208
+CY216897	segment 4	length 1752
+CY216898	segment 5	length 1540
+CY216899	segment 6	length 1433
+CY216900	segment 7	length 1002
+CY216901	segment 8	length 865
+>(B/Minnesota/01/2017)		2017/01/02	149
+CY217343	segment 1	length 2341
+CY217344	segment 2	length 2367
+CY217345	segment 3	length 2275
+CY217346	segment 4	length 1853
+CY217347	segment 5	length 1815
+CY217348	segment 6	length 1530
+CY217349	segment 7	length 1155
+CY217350	segment 8	length 1064
+>(A/Minnesota/05/2017(H3N2))	H3N2	2017/01/19	150
+CY216686	segment 1	length 2316
+CY216687	segment 2	length 2316
+CY216688	segment 3	length 2208
+CY216689	segment 4	length 1737
+CY216690	segment 5	length 1541
+CY216691	segment 6	length 1442
+CY216692	segment 7	length 1002
+CY216693	segment 8	length 865
+>(A/Minnesota/07/2017(H3N2))	H3N2	2017/01/24	151
+CY216694	segment 1	length 2316
+CY216695	segment 2	length 2316
+CY216696	segment 3	length 2208
+CY216697	segment 4	length 1737
+CY216698	segment 5	length 1541
+CY216699	segment 6	length 1441
+CY216700	segment 7	length 1002
+CY216701	segment 8	length 865
+>(A/Minnesota/04/2017(H1N1))	H1N1	2017/01/16	152
+CY218838	segment 1	length 2316
+CY218839	segment 2	length 2316
+CY218840	segment 3	length 2208
+CY218841	segment 4	length 1752
+CY218842	segment 5	length 1540
+CY218843	segment 6	length 1433
+CY218844	segment 7	length 1002
+CY218845	segment 8	length 865
+>(A/Minnesota/06/2017(H1N1))	H1N1	2017/01/23	153
+CY218846	segment 1	length 2316
+CY218847	segment 2	length 2316
+CY218848	segment 3	length 2208
+CY218849	segment 4	length 1752
+CY218850	segment 5	length 1540
+CY218851	segment 6	length 1433
+CY218852	segment 7	length 1002
+CY218853	segment 8	length 865
+>(A/Minnesota/09/2017(H1N1))	H1N1	2017/01/30	154
+CY220940	segment 1	length 2316
+CY220941	segment 2	length 2316
+CY220942	segment 3	length 2208
+CY220943	segment 4	length 1752
+CY220944	segment 5	length 1540
+CY220945	segment 6	length 1433
+CY220946	segment 7	length 1002
+CY220947	segment 8	length 865
+>(A/Minnesota/08/2017(H3N2))	H3N2	2017/01/27	155
+CY220652	segment 1	length 2316
+CY220653	segment 2	length 2316
+CY220654	segment 3	length 2208
+CY220655	segment 4	length 1737
+CY220656	segment 5	length 1542
+CY220657	segment 6	length 1443
+CY220658	segment 7	length 1002
+CY220659	segment 8	length 865
+>(A/Minnesota/10/2017(H3N2))	H3N2	2017/02/06	156
+CY220660	segment 1	length 2316
+CY220661	segment 2	length 2316
+CY220662	segment 3	length 2208
+CY220663	segment 4	length 1737
+CY220664	segment 5	length 1541
+CY220665	segment 6	length 1441
+CY220666	segment 7	length 1002
+CY220667	segment 8	length 865
+>(B/Minnesota/07/2017)		2017/01/30	157
+CY221435	segment 1	length 2340
+CY221436	segment 2	length 2367
+CY221437	segment 3	length 2275
+CY221438	segment 4	length 1856
+CY221439	segment 5	length 1815
+CY221440	segment 6	length 1528
+CY221441	segment 7	length 1154
+CY221442	segment 8	length 1066
+>(B/Minnesota/06/2017)		2017/01/29	158
+CY221443	segment 1	length 2341
+CY221444	segment 2	length 2367
+CY221445	segment 3	length 2276
+CY221446	segment 4	length 1853
+CY221447	segment 5	length 1815
+CY221448	segment 6	length 1530
+CY221449	segment 7	length 1155
+CY221450	segment 8	length 1062
+>(B/Minnesota/08/2017)		2017/02/13	159
+CY222370	segment 1	length 2340
+CY222371	segment 2	length 2367
+CY222372	segment 3	length 2276
+CY222373	segment 4	length 1856
+CY222374	segment 5	length 1815
+CY222375	segment 6	length 1528
+CY222376	segment 7	length 1154
+CY222377	segment 8	length 1066
+>(B/Minnesota/09/2017)		2017/02/19	160
+CY222378	segment 1	length 2340
+CY222379	segment 2	length 2367
+CY222380	segment 3	length 2275
+CY222381	segment 4	length 1853
+CY222382	segment 5	length 1816
+CY222383	segment 6	length 1530
+CY222384	segment 7	length 1155
+CY222385	segment 8	length 1062
+>(A/Minnesota/11/2017(H1N1))	H1N1	2017/02/12	161
+CY223426	segment 1	length 2316
+CY223427	segment 2	length 2316
+CY223428	segment 3	length 2208
+CY223429	segment 4	length 1752
+CY223430	segment 5	length 1540
+CY223431	segment 6	length 1433
+CY223432	segment 7	length 1002
+CY223433	segment 8	length 865
+>(A/Minnesota/13/2017(H3N2))	H3N2	2017/02/17	162
+CY222890	segment 1	length 2316
+CY222891	segment 2	length 2316
+CY222892	segment 3	length 2208
+CY222893	segment 4	length 1737
+CY222894	segment 5	length 1541
+CY222895	segment 6	length 1442
+CY222896	segment 7	length 1002
+CY222897	segment 8	length 865
+>(A/Minnesota/12/2017(H3N2))	H3N2	2017/02/16	163
+CY222898	segment 1	length 2316
+CY222899	segment 2	length 2316
+CY222900	segment 3	length 2208
+CY222901	segment 4	length 1737
+CY222902	segment 5	length 1542
+CY222903	segment 6	length 1441
+CY222904	segment 7	length 1002
+CY222905	segment 8	length 865
+>(A/Minnesota/15/2017(H1N1))	H1N1	2017/03/02	164
+CY225603	segment 1	length 2316
+CY225604	segment 2	length 2316
+CY225605	segment 3	length 2208
+CY225606	segment 4	length 1752
+CY225607	segment 5	length 1540
+CY225608	segment 6	length 1433
+CY225609	segment 7	length 1002
+CY225610	segment 8	length 865
+>(B/Minnesota/11/2017)		2017/03/05	165
+CY226283	segment 1	length 2340
+CY226284	segment 2	length 2367
+CY226285	segment 3	length 2276
+CY226286	segment 4	length 1856
+CY226287	segment 5	length 1815
+CY226288	segment 6	length 1528
+CY226289	segment 7	length 1154
+CY226290	segment 8	length 1066
+>(A/Minnesota/17/2017(H3N2))	H3N2	2017/03/05	166
+CY225243	segment 1	length 2316
+CY225244	segment 2	length 2316
+CY225245	segment 3	length 2208
+CY225246	segment 4	length 1737
+CY225247	segment 5	length 1542
+CY225248	segment 6	length 1441
+CY225249	segment 7	length 1002
+CY225250	segment 8	length 865
+>(A/Minnesota/14/2017(H1N1))	H1N1	2017/02/26	167
+CY225611	segment 1	length 2316
+CY225612	segment 2	length 2316
+CY225613	segment 3	length 2208
+CY225614	segment 4	length 1752
+CY225615	segment 5	length 1540
+CY225616	segment 6	length 1433
+CY225617	segment 7	length 1002
+CY225618	segment 8	length 865
+>(A/Minnesota/16/2017(H3N2))	H3N2	2017/03/04	168
+CY225251	segment 1	length 2316
+CY225252	segment 2	length 2316
+CY225253	segment 3	length 2209
+CY225254	segment 4	length 1737
+CY225255	segment 5	length 1542
+CY225256	segment 6	length 1441
+CY225257	segment 7	length 1002
+CY225258	segment 8	length 865
+>(A/Minnesota/20/2017(H3N2))	H3N2	2017/03/15	169
+CY227811	segment 1	length 2316
+CY227812	segment 2	length 2316
+CY227813	segment 3	length 2208
+CY227814	segment 4	length 1737
+CY227815	segment 5	length 1541
+CY227816	segment 6	length 1441
+CY227817	segment 7	length 1002
+CY227818	segment 8	length 865
+>(A/Minnesota/21/2017(H3N2))	H3N2	2017/03/21	170
+CY227819	segment 1	length 2316
+CY227820	segment 2	length 2316
+CY227821	segment 3	length 2208
+CY227822	segment 4	length 1737
+CY227823	segment 5	length 1542
+CY227824	segment 6	length 1441
+CY227825	segment 7	length 1002
+CY227826	segment 8	length 865
+>(A/Minnesota/19/2017(H1N1))	H1N1	2017/03/12	171
+CY229050	segment 1	length 2316
+CY229051	segment 2	length 2316
+CY229052	segment 3	length 2208
+CY229053	segment 4	length 1752
+CY229054	segment 5	length 1540
+CY229055	segment 6	length 1446
+CY229056	segment 7	length 1002
+CY229057	segment 8	length 865
+>(B/Minnesota/13/2017)		2017/03/21	172
+CY229666	segment 1	length 2340
+CY229667	segment 2	length 2367
+CY229668	segment 3	length 2276
+CY229669	segment 4	length 1856
+CY229670	segment 5	length 1815
+CY229671	segment 6	length 1528
+CY229672	segment 7	length 1154
+CY229673	segment 8	length 1066
+>(A/Minnesota/18/2017(H1N1))	H1N1	2017/03/06	173
+CY229058	segment 1	length 2316
+CY229059	segment 2	length 2316
+CY229060	segment 3	length 2208
+CY229061	segment 4	length 1752
+CY229062	segment 5	length 1540
+CY229063	segment 6	length 1433
+CY229064	segment 7	length 1002
+CY229065	segment 8	length 865
+>(A/Minnesota/23/2017(H3N2))	H3N2	2017/03/28	174
+CY228898	segment 1	length 2316
+CY228899	segment 2	length 2316
+CY228900	segment 3	length 2208
+CY228901	segment 4	length 1737
+CY228902	segment 5	length 1541
+CY228903	segment 6	length 1441
+CY228904	segment 7	length 1002
+CY228905	segment 8	length 865
+>(B/Minnesota/16/2017)		2017/03/27	175
+CY229962	segment 1	length 2340
+CY229963	segment 2	length 2367
+CY229964	segment 3	length 2276
+CY229965	segment 4	length 1853
+CY229966	segment 5	length 1814
+CY229967	segment 6	length 1530
+CY229968	segment 7	length 1155
+CY229969	segment 8	length 1062
+>(A/Minnesota/24/2017(H3N2))	H3N2	2017/03/28	176
+CY228906	segment 1	length 2316
+CY228907	segment 2	length 2316
+CY228908	segment 3	length 2208
+CY228909	segment 4	length 1737
+CY228910	segment 5	length 1541
+CY228911	segment 6	length 1441
+CY228912	segment 7	length 1002
+CY228913	segment 8	length 865
+>(B/Minnesota/18/2017)		2017/04/10	177
+CY233168	segment 1	length 2340
+CY233169	segment 2	length 2367
+CY233170	segment 3	length 2276
+CY233171	segment 4	length 1850
+CY233172	segment 5	length 1815
+CY233173	segment 6	length 1528
+CY233174	segment 7	length 1154
+CY233175	segment 8	length 1067
+>(A/Minnesota/25/2017(H1N1))	H1N1	2017/04/05	178
+CY232655	segment 1	length 2316
+CY232656	segment 2	length 2316
+CY232657	segment 3	length 2208
+CY232658	segment 4	length 1752
+CY232659	segment 5	length 1540
+CY232660	segment 6	length 1433
+CY232661	segment 7	length 1002
+CY232662	segment 8	length 865
+>(B/Minnesota/19/2017)		2017/04/15	179
+CY233176	segment 1	length 2340
+CY233177	segment 2	length 2367
+CY233178	segment 3	length 2275
+CY233179	segment 4	length 1853
+CY233180	segment 5	length 1815
+CY233181	segment 6	length 1530
+CY233182	segment 7	length 1155
+CY233183	segment 8	length 1063
+>(A/Minnesota/26/2017(H3N2))	H3N2	2017/04/12	180
+CY232583	segment 1	length 2316
+CY232584	segment 2	length 2316
+CY232585	segment 3	length 2209
+CY232586	segment 4	length 1737
+CY232587	segment 5	length 1542
+CY232588	segment 6	length 1441
+CY232589	segment 7	length 1002
+CY232590	segment 8	length 865
+>(B/Minnesota/21/2017)		2017/04/28	181
+CY234125	segment 1	length 2341
+CY234126	segment 2	length 2367
+CY234127	segment 3	length 2276
+CY234128	segment 4	length 1853
+CY234129	segment 5	length 1815
+CY234130	segment 6	length 1530
+CY234131	segment 7	length 1155
+CY234132	segment 8	length 1062
+>(B/Minnesota/20/2017)		2017/04/21	182
+CY234133	segment 1	length 2340
+CY234134	segment 2	length 2367
+CY234135	segment 3	length 2276
+CY234136	segment 4	length 1856
+CY234137	segment 5	length 1815
+CY234138	segment 6	length 1528
+CY234139	segment 7	length 1154
+CY234140	segment 8	length 1066
+>(A/Minnesota/29/2017(H3N2))	H3N2	2017/04/29	183
+CY234679	segment 1	length 2316
+CY234680	segment 2	length 2316
+CY234681	segment 3	length 2208
+CY234682	segment 4	length 1737
+CY234683	segment 5	length 1542
+CY234684	segment 6	length 1442
+CY234685	segment 7	length 1002
+CY234686	segment 8	length 865
+>(A/Minnesota/28/2017(H3N2))	H3N2	2017/04/24	184
+CY234687	segment 1	length 2316
+CY234688	segment 2	length 2316
+CY234689	segment 3	length 2208
+CY234690	segment 4	length 1737
+CY234691	segment 5	length 1541
+CY234692	segment 6	length 1441
+CY234693	segment 7	length 1002
+CY234694	segment 8	length 865
+>(B/Minnesota/22/2017)		2017/05/05	185
+CY237695	segment 1	length 2340
+CY237696	segment 2	length 2367
+CY237697	segment 3	length 2276
+CY237698	segment 4	length 1856
+CY237699	segment 5	length 1815
+CY237700	segment 6	length 1528
+CY237701	segment 7	length 1154
+CY237702	segment 8	length 1066
+>(A/Minnesota/30/2017(H3N2))	H3N2	2017/05/08	186
+CY235805	segment 1	length 2316
+CY235806	segment 2	length 2316
+CY235807	segment 3	length 2208
+CY235808	segment 4	length 1737
+CY235809	segment 5	length 1541
+CY235810	segment 6	length 1441
+CY235811	segment 7	length 1002
+CY235812	segment 8	length 865
+>(B/Minnesota/23/2017)		2017/05/11	187
+CY237703	segment 1	length 2339
+CY237704	segment 2	length 2367
+CY237705	segment 3	length 2275
+CY237706	segment 4	length 1853
+CY237707	segment 5	length 1815
+CY237708	segment 6	length 1530
+CY237709	segment 7	length 1155
+CY237710	segment 8	length 1064
+>(A/Minnesota/31/2017(H3N2))	H3N2	2017/05/13	188
+CY235813	segment 1	length 2316
+CY235814	segment 2	length 2316
+CY235815	segment 3	length 2208
+CY235816	segment 4	length 1737
+CY235817	segment 5	length 1541
+CY235818	segment 6	length 1442
+CY235819	segment 7	length 1002
+CY235820	segment 8	length 865
+>(A/Minnesota/32/2017(H3N2))	H3N2	2017/05/12	189
+CY235965	segment 1	length 2316
+CY235966	segment 2	length 2316
+CY235967	segment 3	length 2208
+CY235968	segment 4	length 1737
+CY235969	segment 5	length 1542
+CY235970	segment 6	length 1441
+CY235971	segment 7	length 1002
+CY235972	segment 8	length 865
+>(A/Minnesota/33/2017(H3N2))	H3N2	2017/05/15	190
+CY235973	segment 1	length 2316
+CY235974	segment 2	length 2316
+CY235975	segment 3	length 2208
+CY235976	segment 4	length 1737
+CY235977	segment 5	length 1541
+CY235978	segment 6	length 1442
+CY235979	segment 7	length 1002
+CY235980	segment 8	length 865
+>(B/Minnesota/24/2017)		2017/05/15	191
+CY238019	segment 1	length 2340
+CY238020	segment 2	length 2367
+CY238021	segment 3	length 2275
+CY238022	segment 4	length 1853
+CY238023	segment 5	length 1815
+CY238024	segment 6	length 1530
+CY238025	segment 7	length 1155
+CY238026	segment 8	length 1062
+>(A/Minnesota/34/2017(H1N1))	H1N1	2017/06/14	192
+CY239566	segment 1	length 2316
+CY239567	segment 2	length 2316
+CY239568	segment 3	length 2208
+CY239569	segment 4	length 1752
+CY239570	segment 5	length 1540
+CY239571	segment 6	length 1433
+CY239572	segment 7	length 1002
+CY239573	segment 8	length 865
+>(B/Minnesota/34/2017)		2017/06/02	193
+CY240171	segment 1	length 2340
+CY240172	segment 2	length 2367
+CY240173	segment 3	length 2275
+CY240174	segment 4	length 1853
+CY240175	segment 5	length 1815
+CY240176	segment 6	length 1529
+CY240177	segment 7	length 1155
+CY240178	segment 8	length 1063
+>(B/Minnesota/35/2017)		2017/06/02	194
+CY240179	segment 1	length 2340
+CY240180	segment 2	length 2367
+CY240181	segment 3	length 2275
+CY240182	segment 4	length 1853
+CY240183	segment 5	length 1816
+CY240184	segment 6	length 1530
+CY240185	segment 7	length 1155
+CY240186	segment 8	length 1062
+>(A/Minnesota/35/2017(H1N1))	H1N1	2017/07/27	195
+CY243771	segment 1	length 2316
+CY243772	segment 2	length 2316
+CY243773	segment 3	length 2208
+CY243774	segment 4	length 1752
+CY243775	segment 5	length 1540
+CY243776	segment 6	length 1433
+CY243777	segment 7	length 1002
+CY243778	segment 8	length 865
+>(A/Minnesota/36/2017(H3N2))	H3N2	2017/09/27	196
+CY250056	segment 1	length 2316
+CY250057	segment 2	length 2316
+CY250058	segment 3	length 2208
+CY250059	segment 4	length 1737
+CY250060	segment 5	length 1541
+CY250061	segment 6	length 1441
+CY250062	segment 7	length 1002
+CY250063	segment 8	length 865
+>(A/Minnesota/37/2017(H3N2))	H3N2	2017/09/28	197
+CY250064	segment 1	length 2316
+CY250065	segment 2	length 2316
+CY250066	segment 3	length 2209
+CY250067	segment 4	length 1737
+CY250068	segment 5	length 1542
+CY250069	segment 6	length 1441
+CY250070	segment 7	length 1002
+CY250071	segment 8	length 865
+>(B/Minnesota/44/2017)		2017/10/08	198
+CY250272	segment 1	length 2340
+CY250273	segment 2	length 2367
+CY250274	segment 3	length 2275
+CY250275	segment 4	length 1853
+CY250276	segment 5	length 1816
+CY250277	segment 6	length 1529
+CY250278	segment 7	length 1155
+CY250279	segment 8	length 1063
+>(B/Minnesota/25/2017)		2017/03/08	199
+CY247226	segment 1	length 2340
+CY247227	segment 2	length 2367
+CY247228	segment 3	length 2276
+CY247229	segment 4	length 1856
+CY247230	segment 5	length 1815
+CY247231	segment 6	length 1528
+CY247232	segment 7	length 1154
+CY247233	segment 8	length 1066
+>(B/Minnesota/26/2017)		2017/03/09	200
+CY247234	segment 1	length 2340
+CY247235	segment 2	length 2367
+CY247236	segment 3	length 2275
+CY247237	segment 4	length 1856
+CY247238	segment 5	length 1815
+CY247239	segment 6	length 1528
+CY247240	segment 7	length 1154
+CY247241	segment 8	length 1066
+>(B/Minnesota/28/2017)		2017/03/21	201
+CY247242	segment 1	length 2340
+CY247243	segment 2	length 2367
+CY247244	segment 3	length 2276
+CY247245	segment 4	length 1850
+CY247246	segment 5	length 1815
+CY247247	segment 6	length 1528
+CY247248	segment 7	length 1154
+CY247249	segment 8	length 1067
+>(B/Minnesota/29/2017)		2017/03/23	202
+CY247250	segment 1	length 2340
+CY247251	segment 2	length 2367
+CY247252	segment 3	length 2276
+CY247253	segment 4	length 1856
+CY247254	segment 5	length 1815
+CY247255	segment 6	length 1528
+CY247256	segment 7	length 1154
+CY247257	segment 8	length 1066
+>(B/Minnesota/30/2017)		2017/03/23	203
+CY247258	segment 1	length 2340
+CY247259	segment 2	length 2367
+CY247260	segment 3	length 2276
+CY247261	segment 4	length 1856
+CY247262	segment 5	length 1815
+CY247263	segment 6	length 1528
+CY247264	segment 7	length 1154
+CY247265	segment 8	length 1066
+>(B/Minnesota/31/2017)		2017/03/23	204
+CY247266	segment 1	length 2340
+CY247267	segment 2	length 2367
+CY247268	segment 3	length 2276
+CY247269	segment 4	length 1850
+CY247270	segment 5	length 1815
+CY247271	segment 6	length 1528
+CY247272	segment 7	length 1154
+CY247273	segment 8	length 1067
+>(B/Minnesota/32/2017)		2017/03/25	205
+CY247274	segment 1	length 2340
+CY247275	segment 2	length 2367
+CY247276	segment 3	length 2276
+CY247277	segment 4	length 1856
+CY247278	segment 5	length 1815
+CY247279	segment 6	length 1528
+CY247280	segment 7	length 1154
+CY247281	segment 8	length 1066
+>(B/Minnesota/33/2017)		2017/03/29	206
+CY247282	segment 1	length 2340
+CY247283	segment 2	length 2367
+CY247284	segment 3	length 2276
+CY247285	segment 4	length 1856
+CY247286	segment 5	length 1815
+CY247287	segment 6	length 1528
+CY247288	segment 7	length 1154
+CY247289	segment 8	length 1066
+>(B/Minnesota/36/2017)		2017/04/03	207
+CY248601	segment 1	length 2340
+CY248602	segment 2	length 2367
+CY248603	segment 3	length 2276
+CY248604	segment 4	length 1856
+CY248605	segment 5	length 1815
+CY248606	segment 6	length 1528
+CY248607	segment 7	length 1154
+CY248608	segment 8	length 1066
+>(B/Minnesota/38/2017)		2017/04/03	208
+CY248614	segment 1	length 2340
+CY248615	segment 2	length 2367
+CY248616	segment 3	length 2276
+CY248617	segment 4	length 1856
+CY248618	segment 5	length 1815
+CY248619	segment 6	length 1528
+CY248620	segment 7	length 1154
+CY248621	segment 8	length 1066
+>(B/Minnesota/39/2017)		2017/04/04	209
+CY248622	segment 1	length 2340
+CY248623	segment 2	length 2367
+CY248624	segment 3	length 2276
+CY248625	segment 4	length 1856
+CY248626	segment 5	length 1815
+CY248627	segment 6	length 1528
+CY248628	segment 7	length 1154
+CY248629	segment 8	length 1066
+>(B/Minnesota/42/2017)		2017/04/08	210
+CY248637	segment 1	length 2340
+CY248638	segment 2	length 2367
+CY248639	segment 3	length 2276
+CY248640	segment 4	length 1856
+CY248641	segment 5	length 1815
+CY248642	segment 6	length 1528
+CY248643	segment 7	length 1154
+CY248644	segment 8	length 1066
+>(B/Minnesota/43/2017)		2017/04/09	211
+CY248645	segment 1	length 2340
+CY248646	segment 2	length 2367
+CY248647	segment 3	length 2276
+CY248648	segment 4	length 1856
+CY248649	segment 5	length 1815
+CY248650	segment 6	length 1528
+CY248651	segment 7	length 1154
+CY248652	segment 8	length 1066
+>(B/Minnesota/41/2017)		2017/04/06	212
+CY248653	segment 1	length 2340
+CY248654	segment 2	length 2367
+CY248655	segment 3	length 2276
+CY248656	segment 4	length 1856
+CY248657	segment 5	length 1815
+CY248658	segment 6	length 1528
+CY248659	segment 7	length 1154
+CY248660	segment 8	length 1066
+>(B/Minnesota/45/2017)		2017/10/09	213
+CY250792	segment 1	length 2340
+CY250793	segment 2	length 2367
+CY250794	segment 3	length 2275
+CY250795	segment 4	length 1853
+CY250796	segment 5	length 1815
+CY250797	segment 6	length 1530
+CY250798	segment 7	length 1155
+CY250799	segment 8	length 1063
+>(B/Minnesota/46/2017)		2017/10/19	214
+CY258841	segment 1	length 2340
+CY258842	segment 2	length 2367
+CY258843	segment 3	length 2275
+CY258844	segment 4	length 1853
+CY258845	segment 5	length 1816
+CY258846	segment 6	length 1530
+CY258847	segment 7	length 1155
+CY258848	segment 8	length 1062
+>(B/Minnesota/47/2017)		2017/10/31	215
+CY258849	segment 1	length 2340
+CY258850	segment 2	length 2367
+CY258851	segment 3	length 2275
+CY258852	segment 4	length 1853
+CY258853	segment 5	length 1816
+CY258854	segment 6	length 1530
+CY258855	segment 7	length 1155
+CY258856	segment 8	length 1062
+>(A/Minnesota/39/2017(H3N2))	H3N2	2017/10/31	216
+CY258321	segment 1	length 2316
+CY258322	segment 2	length 2316
+CY258323	segment 3	length 2209
+CY258324	segment 4	length 1737
+CY258325	segment 5	length 1542
+CY258326	segment 6	length 1442
+CY258327	segment 7	length 1002
+CY258328	segment 8	length 865
+>(A/Minnesota/38/2017(H3N2))	H3N2	2017/10/26	217
+CY258329	segment 1	length 2316
+CY258330	segment 2	length 2316
+CY258331	segment 3	length 2209
+CY258332	segment 4	length 1737
+CY258333	segment 5	length 1542
+CY258334	segment 6	length 1441
+CY258335	segment 7	length 1002
+CY258336	segment 8	length 865
+>(A/Minnesota/40/2017(H3N2))	H3N2	2017/11/05	218
+CY260760	segment 1	length 2316
+CY260761	segment 2	length 2316
+CY260762	segment 3	length 2208
+CY260763	segment 4	length 1737
+CY260764	segment 5	length 1542
+CY260765	segment 6	length 1441
+CY260766	segment 7	length 1002
+CY260767	segment 8	length 865
+>(A/Minnesota/41/2017(H3N2))	H3N2	2017/11/06	219
+CY260768	segment 1	length 2316
+CY260769	segment 2	length 2316
+CY260770	segment 3	length 2208
+CY260771	segment 4	length 1737
+CY260772	segment 5	length 1542
+CY260773	segment 6	length 1441
+CY260774	segment 7	length 1002
+CY260775	segment 8	length 865
+>(B/Minnesota/48/2017)		2017/11/08	220
+CY262389	segment 1	length 2340
+CY262390	segment 2	length 2367
+CY262391	segment 3	length 2275
+CY262392	segment 4	length 1853
+CY262393	segment 5	length 1816
+CY262394	segment 6	length 1530
+CY262395	segment 7	length 1155
+CY262396	segment 8	length 1063
+>(B/Minnesota/49/2017)		2017/11/20	221
+CY262693	segment 1	length 2340
+CY262694	segment 2	length 2367
+CY262695	segment 3	length 2275
+CY262696	segment 4	length 1853
+CY262697	segment 5	length 1816
+CY262698	segment 6	length 1530
+CY262699	segment 7	length 1155
+CY262700	segment 8	length 1062
+>(A/Minnesota/42/2017(H3N2))	H3N2	2017/11/19	222
+CY261580	segment 1	length 2316
+CY261581	segment 2	length 2316
+CY261582	segment 3	length 2208
+CY261583	segment 4	length 1737
+CY261584	segment 5	length 1541
+CY261585	segment 6	length 1442
+CY261586	segment 7	length 1002
+CY261587	segment 8	length 865
+>(B/Minnesota/50/2017)		2017/11/23	223
+CY262701	segment 1	length 2340
+CY262702	segment 2	length 2367
+CY262703	segment 3	length 2275
+CY262704	segment 4	length 1853
+CY262705	segment 5	length 1816
+CY262706	segment 6	length 1529
+CY262707	segment 7	length 1155
+CY262708	segment 8	length 1062
+>(A/Minnesota/43/2017(H3N2))	H3N2	2017/11/27	224
+CY261588	segment 1	length 2316
+CY261589	segment 2	length 2316
+CY261590	segment 3	length 2209
+CY261591	segment 4	length 1737
+CY261592	segment 5	length 1542
+CY261593	segment 6	length 1440
+CY261594	segment 7	length 1002
+CY261595	segment 8	length 865
+>(A/Minnesota/45/2017(H1N1))	H1N1	2017/12/08	225
+CY265304	segment 1	length 2316
+CY265305	segment 2	length 2316
+CY265306	segment 3	length 2208
+CY265307	segment 4	length 1752
+CY265308	segment 5	length 1540
+CY265309	segment 6	length 1433
+CY265310	segment 7	length 1002
+CY265311	segment 8	length 865
+>(A/Minnesota/46/2017(H3N2))	H3N2	2017/12/08	226
+CY264803	segment 1	length 2316
+CY264804	segment 2	length 2316
+CY264805	segment 3	length 2209
+CY264806	segment 4	length 1737
+CY264807	segment 5	length 1542
+CY264808	segment 6	length 1441
+CY264809	segment 7	length 1002
+CY264810	segment 8	length 865
+>(A/Minnesota/44/2017(H1N1))	H1N1	2017/11/25	227
+CY265312	segment 1	length 2316
+CY265313	segment 2	length 2316
+CY265314	segment 3	length 2208
+CY265315	segment 4	length 1752
+CY265316	segment 5	length 1540
+CY265317	segment 6	length 1433
+CY265318	segment 7	length 1002
+CY265319	segment 8	length 865
+>(B/Minnesota/52/2017)		2017/12/05	228
+CY265720	segment 1	length 2340
+CY265721	segment 2	length 2367
+CY265722	segment 3	length 2275
+CY265723	segment 4	length 1853
+CY265724	segment 5	length 1816
+CY265725	segment 6	length 1530
+CY265726	segment 7	length 1155
+CY265727	segment 8	length 1063
+>(A/Minnesota/50/2017(H3N2))	H3N2	2017/12/21	229
+MG974607	segment 1	length 2316
+MG974608	segment 2	length 2316
+MG974609	segment 3	length 2209
+MG974610	segment 4	length 1737
+MG974611	segment 5	length 1542
+MG974612	segment 6	length 1442
+MG974613	segment 7	length 1002
+MG974614	segment 8	length 865
+>(A/Minnesota/49/2017(H1N1))	H1N1	2017/12/20	230
+MG978717	segment 1	length 2316
+MG978718	segment 2	length 2316
+MG978719	segment 3	length 2208
+MG978720	segment 4	length 1752
+MG978721	segment 5	length 1540
+MG978722	segment 6	length 1433
+MG978723	segment 7	length 1002
+MG978724	segment 8	length 865
+>(B/Minnesota/01/2018)		2018/01/01	231
+MH081254	segment 1	length 2340
+MH081256	segment 2	length 2367
+MH081257	segment 3	length 2276
+MH081258	segment 4	length 1850
+MH081259	segment 5	length 1815
+MH081260	segment 6	length 1528
+MH081261	segment 7	length 1154
+MH081255	segment 8	length 1067
+>(A/Minnesota/01/2018(H3N2))	H3N2	2018/01/03	232
+MH082471	segment 1	length 2316
+MH082470	segment 2	length 2316
+MH082469	segment 3	length 2208
+MH082468	segment 4	length 1737
+MH082467	segment 5	length 1541
+MH082466	segment 6	length 1441
+MH082465	segment 7	length 1002
+MH082464	segment 8	length 865
+>(A/Minnesota/04/2018(H3N2))	H3N2	2018/01/05	233
+MH082479	segment 1	length 2316
+MH082478	segment 2	length 2316
+MH082477	segment 3	length 2208
+MH082476	segment 4	length 1737
+MH082475	segment 5	length 1542
+MH082474	segment 6	length 1441
+MH082473	segment 7	length 1002
+MH082472	segment 8	length 865
+>(A/Minnesota/03/2018(H1N1))	H1N1	2018/01/04	234
+MH083725	segment 1	length 2316
+MH083722	segment 2	length 2316
+MH083723	segment 3	length 2208
+MH083724	segment 4	length 1752
+MH083728	segment 5	length 1540
+MH083729	segment 6	length 1434
+MH083726	segment 7	length 1002
+MH083727	segment 8	length 865
+>(A/Minnesota/06/2018(H1N1))	H1N1	2018/01/10	235
+MH126013	segment 1	length 2316
+MH126012	segment 2	length 2316
+MH126011	segment 3	length 2208
+MH126010	segment 4	length 1752
+MH126009	segment 5	length 1540
+MH126008	segment 6	length 1433
+MH126007	segment 7	length 1002
+MH126006	segment 8	length 865
+>(A/Minnesota/10/2018(H1N1))	H1N1	2018/01/22	236
+MH126020	segment 1	length 2316
+MH126015	segment 2	length 2316
+MH126014	segment 3	length 2208
+MH126021	segment 4	length 1752
+MH126019	segment 5	length 1540
+MH126018	segment 6	length 1433
+MH126017	segment 7	length 1002
+MH126016	segment 8	length 865
+>(A/Minnesota/09/2018(H3N2))	H3N2	2018/01/21	237
+MH126956	segment 1	length 2316
+MH126955	segment 2	length 2316
+MH126954	segment 3	length 2209
+MH126953	segment 4	length 1737
+MH126952	segment 5	length 1542
+MH126949	segment 6	length 1441
+MH126951	segment 7	length 1002
+MH126950	segment 8	length 865
+>(B/Minnesota/53/2017)		2017/12/19	238
+MH130993	segment 1	length 2340
+MH130992	segment 2	length 2367
+MH130994	segment 3	length 2275
+MH130995	segment 4	length 1853
+MH130996	segment 5	length 1816
+MH130997	segment 6	length 1529
+MH130998	segment 7	length 1155
+MH130999	segment 8	length 1062
+>(B/Minnesota/54/2017)		2017/12/20	239
+MH131001	segment 1	length 2340
+MH131000	segment 2	length 2367
+MH131002	segment 3	length 2276
+MH131003	segment 4	length 1853
+MH131004	segment 5	length 1816
+MH131005	segment 6	length 1530
+MH131006	segment 7	length 1155
+MH131007	segment 8	length 1062
+>(B/Minnesota/03/2018)		2018/01/08	240
+MH136243	segment 1	length 2340
+MH136242	segment 2	length 2367
+MH136244	segment 3	length 2276
+MH136245	segment 4	length 1850
+MH136246	segment 5	length 1815
+MH136247	segment 6	length 1529
+MH136248	segment 7	length 1154
+MH136249	segment 8	length 1066
+>(B/Minnesota/04/2018)		2018/01/15	241
+MH136251	segment 1	length 2340
+MH136250	segment 2	length 2367
+MH136252	segment 3	length 2275
+MH136256	segment 4	length 1853
+MH136253	segment 5	length 1816
+MH136257	segment 6	length 1530
+MH136254	segment 7	length 1155
+MH136255	segment 8	length 1061
+>(B/Minnesota/05/2018)		2018/01/13	242
+MH136264	segment 1	length 2340
+MH136265	segment 2	length 2367
+MH136258	segment 3	length 2276
+MH136259	segment 4	length 1850
+MH136260	segment 5	length 1815
+MH136261	segment 6	length 1529
+MH136262	segment 7	length 1154
+MH136263	segment 8	length 1066
+>(B/Minnesota/06/2018)		2018/01/24	243
+MH136267	segment 1	length 2340
+MH136266	segment 2	length 2367
+MH136268	segment 3	length 2275
+MH136269	segment 4	length 1853
+MH136270	segment 5	length 1816
+MH136271	segment 6	length 1530
+MH136272	segment 7	length 1155
+MH136273	segment 8	length 1063
+>(A/Minnesota/14/2018(H1N1))	H1N1	2018/02/05	244
+MH183722	segment 1	length 2316
+MH183723	segment 2	length 2316
+MH183724	segment 3	length 2208
+MH183725	segment 4	length 1752
+MH183726	segment 5	length 1540
+MH183727	segment 6	length 1434
+MH183728	segment 7	length 1002
+MH183729	segment 8	length 865
+>(A/Minnesota/16/2018(H1N1))	H1N1	2018/02/06	245
+MH183730	segment 1	length 2316
+MH183731	segment 2	length 2316
+MH183732	segment 3	length 2208
+MH183733	segment 4	length 1752
+MH183734	segment 5	length 1540
+MH183735	segment 6	length 1434
+MH183736	segment 7	length 1002
+MH183737	segment 8	length 865
+>(B/Minnesota/09/2018)		2018/02/21	246
+MH245504	segment 1	length 2340
+MH245505	segment 2	length 2367
+MH245503	segment 3	length 2276
+MH245502	segment 4	length 1850
+MH245501	segment 5	length 1815
+MH245500	segment 6	length 1529
+MH245499	segment 7	length 1154
+MH245498	segment 8	length 1066
+>(B/Minnesota/10/2018)		2018/02/24	247
+MH245512	segment 1	length 2340
+MH245513	segment 2	length 2367
+MH245511	segment 3	length 2275
+MH245510	segment 4	length 1853
+MH245509	segment 5	length 1816
+MH245508	segment 6	length 1529
+MH245507	segment 7	length 1155
+MH245506	segment 8	length 1062
+>(A/Minnesota/20/2018(H1N1))	H1N1	2018/02/28	248
+MH246056	segment 1	length 2316
+MH246055	segment 2	length 2316
+MH246054	segment 3	length 2208
+MH246053	segment 4	length 1752
+MH246052	segment 5	length 1540
+MH246051	segment 6	length 1433
+MH246050	segment 7	length 1002
+MH246049	segment 8	length 865
+>(A/Minnesota/18/2018(H3N2))	H3N2	2018/02/21	249
+MH246580	segment 1	length 2316
+MH246581	segment 2	length 2316
+MH246582	segment 3	length 2208
+MH246583	segment 4	length 1737
+MH246584	segment 5	length 1541
+MH246585	segment 6	length 1441
+MH246586	segment 7	length 1002
+MH246587	segment 8	length 865
+>(A/Minnesota/19/2018(H3N2))	H3N2	2018/02/23	250
+MH246588	segment 1	length 2316
+MH246589	segment 2	length 2316
+MH246590	segment 3	length 2209
+MH246591	segment 4	length 1737
+MH246592	segment 5	length 1542
+MH246593	segment 6	length 1441
+MH246594	segment 7	length 1002
+MH246595	segment 8	length 865
+>(A/Minnesota/24/2018)	H3N2	2018/03/19	251
+MH358715	segment 1	length 2316
+MH358716	segment 2	length 2316
+MH358717	segment 3	length 2209
+MH358718	segment 4	length 1737
+MH358719	segment 5	length 1542
+MH358720	segment 6	length 1441
+MH358721	segment 7	length 1002
+MH358722	segment 8	length 865
+>(A/Minnesota/23/2018)	H1N1	2018/03/14	252
+MH360059	segment 1	length 2316
+MH360060	segment 2	length 2316
+MH360061	segment 3	length 2208
+MH360062	segment 4	length 1752
+MH360063	segment 5	length 1540
+MH360064	segment 6	length 1433
+MH360065	segment 7	length 1002
+MH360066	segment 8	length 865
+>(B/Minnesota/11/2018)		2018/03/09	253
+MH363293	segment 1	length 2340
+MH363292	segment 2	length 2367
+MH363294	segment 3	length 2276
+MH363295	segment 4	length 1850
+MH363296	segment 5	length 1816
+MH363297	segment 6	length 1528
+MH363298	segment 7	length 1154
+MH363299	segment 8	length 1066
+>(B/Minnesota/12/2018)		2018/03/19	254
+MH363301	segment 1	length 2340
+MH363300	segment 2	length 2367
+MH363302	segment 3	length 2275
+MH363303	segment 4	length 1853
+MH363304	segment 5	length 1816
+MH363305	segment 6	length 1529
+MH363306	segment 7	length 1155
+MH363307	segment 8	length 1062
+>(A/Minnesota/26/2018)	H1N1	2018/03/20	255
+MH446775	segment 1	length 2316
+MH446774	segment 2	length 2316
+MH446773	segment 3	length 2208
+MH446772	segment 4	length 1752
+MH446768	segment 5	length 1540
+MH446771	segment 6	length 1433
+MH446770	segment 7	length 1002
+MH446769	segment 8	length 865
+>(A/Minnesota/28/2018)	H1N1	2018/03/29	256
+MH446783	segment 1	length 2316
+MH446782	segment 2	length 2316
+MH446781	segment 3	length 2208
+MH446780	segment 4	length 1752
+MH446779	segment 5	length 1540
+MH446778	segment 6	length 1433
+MH446777	segment 7	length 1002
+MH446776	segment 8	length 865
+>(A/Minnesota/29/2018)	H1N1	2018/04/07	257
+MH540604	segment 1	length 2316
+MH540605	segment 2	length 2316
+MH540606	segment 3	length 2208
+MH540607	segment 4	length 1753
+MH540608	segment 5	length 1540
+MH540609	segment 6	length 1433
+MH540610	segment 7	length 1002
+MH540611	segment 8	length 865
+>(A/Minnesota/31/2018)	H1N1	2018/04/11	258
+MH540616	segment 1	length 2316
+MH540617	segment 2	length 2316
+MH540618	segment 3	length 2208
+MH540619	segment 4	length 1752
+MH540612	segment 5	length 1540
+MH540613	segment 6	length 1433
+MH540614	segment 7	length 1002
+MH540615	segment 8	length 865
+>(A/Minnesota/32/2018)	H3N2	2018/04/16	259
+MH540890	segment 1	length 2316
+MH540891	segment 2	length 2316
+MH540892	segment 3	length 2208
+MH540893	segment 4	length 1737
+MH540894	segment 5	length 1542
+MH540895	segment 6	length 1441
+MH540896	segment 7	length 1002
+MH540897	segment 8	length 865
+>(B/Minnesota/07/2018)		2018/02/04	260
+MH583518	segment 1	length 2340
+MH583517	segment 2	length 2367
+MH583519	segment 3	length 2276
+MH583520	segment 4	length 1850
+MH583521	segment 5	length 1815
+MH583522	segment 6	length 1529
+MH583523	segment 7	length 1154
+MH583524	segment 8	length 1066
+>(B/Minnesota/08/2018)		2018/02/05	261
+MH583526	segment 1	length 2340
+MH583525	segment 2	length 2367
+MH583527	segment 3	length 2275
+MH583528	segment 4	length 1853
+MH583529	segment 5	length 1815
+MH583530	segment 6	length 1529
+MH583531	segment 7	length 1155
+MH583532	segment 8	length 1062
+>(B/Minnesota/13/2018)		2018/03/26	262
+MH584612	segment 1	length 2340
+MH584605	segment 2	length 2367
+MH584611	segment 3	length 2275
+MH584610	segment 4	length 1853
+MH584609	segment 5	length 1816
+MH584608	segment 6	length 1530
+MH584607	segment 7	length 1155
+MH584606	segment 8	length 1062
+>(B/Minnesota/14/2018)		2018/04/02	263
+MH584619	segment 1	length 2340
+MH584620	segment 2	length 2367
+MH584618	segment 3	length 2276
+MH584617	segment 4	length 1850
+MH584616	segment 5	length 1815
+MH584615	segment 6	length 1529
+MH584614	segment 7	length 1154
+MH584613	segment 8	length 1066
+>(A/Minnesota/13/2018)	H3N2	2018/02/01	264
+MH586137	segment 1	length 2316
+MH586138	segment 2	length 2316
+MH586139	segment 3	length 2208
+MH586140	segment 4	length 1737
+MH586141	segment 5	length 1542
+MH586142	segment 6	length 1441
+MH586143	segment 7	length 1002
+MH586144	segment 8	length 865
+>(A/Minnesota/15/2018)	H3N2	2018/02/05	265
+MH586145	segment 1	length 2316
+MH586146	segment 2	length 2316
+MH586147	segment 3	length 2209
+MH586148	segment 4	length 1737
+MH586149	segment 5	length 1542
+MH586150	segment 6	length 1441
+MH586151	segment 7	length 1002
+MH586152	segment 8	length 865
+>(A/Minnesota/35/2018)	H1N1	2018/04/29	266
+MH600316	segment 1	length 2316
+MH600317	segment 2	length 2316
+MH600318	segment 3	length 2208
+MH600319	segment 4	length 1752
+MH600320	segment 5	length 1540
+MH600321	segment 6	length 1433
+MH600322	segment 7	length 1002
+MH600323	segment 8	length 865
+>(A/Minnesota/36/2018)	H1N1	2018/05/07	267
+MH600324	segment 1	length 2316
+MH600325	segment 2	length 2316
+MH600326	segment 3	length 2208
+MH600327	segment 4	length 1752
+MH600328	segment 5	length 1540
+MH600329	segment 6	length 1434
+MH600330	segment 7	length 1002
+MH600331	segment 8	length 865
+>(A/Minnesota/37/2018)	H1N1	2018/05/08	268
+MH600332	segment 1	length 2316
+MH600333	segment 2	length 2316
+MH600334	segment 3	length 2208
+MH600335	segment 4	length 1752
+MH600336	segment 5	length 1540
+MH600337	segment 6	length 1434
+MH600338	segment 7	length 1002
+MH600339	segment 8	length 865
+>(A/Minnesota/38/2018)	H3N2	2018/05/10	269
+MH600854	segment 1	length 2316
+MH600861	segment 2	length 2316
+MH600855	segment 3	length 2209
+MH600856	segment 4	length 1737
+MH600857	segment 5	length 1542
+MH600858	segment 6	length 1441
+MH600859	segment 7	length 1002
+MH600860	segment 8	length 865
+>(A/Minnesota/39/2018)	H3N2	2018/05/12	270
+MH600862	segment 1	length 2316
+MH600863	segment 2	length 2316
+MH600864	segment 3	length 2209
+MH600865	segment 4	length 1737
+MH600866	segment 5	length 1542
+MH600867	segment 6	length 1441
+MH600868	segment 7	length 1002
+MH600869	segment 8	length 865
+>(B/Minnesota/15/2018)		2018/04/06	271
+MH604761	segment 1	length 2340
+MH604760	segment 2	length 2367
+MH604762	segment 3	length 2276
+MH604763	segment 4	length 1850
+MH604764	segment 5	length 1815
+MH604765	segment 6	length 1528
+MH604766	segment 7	length 1154
+MH604767	segment 8	length 1066
+>(B/Minnesota/16/2018)		2018/04/11	272
+MH604768	segment 1	length 2340
+MH604775	segment 2	length 2367
+MH604769	segment 3	length 2275
+MH604772	segment 4	length 1853
+MH604773	segment 5	length 1816
+MH604770	segment 6	length 1530
+MH604771	segment 7	length 1155
+MH604774	segment 8	length 1062
+>(B/Minnesota/17/2018)		2018/04/24	273
+MH606606	segment 1	length 2340
+MH606605	segment 2	length 2367
+MH606607	segment 3	length 2276
+MH606608	segment 4	length 1850
+MH606609	segment 5	length 1815
+MH606610	segment 6	length 1528
+MH606611	segment 7	length 1154
+MH606612	segment 8	length 1066
+>(B/Minnesota/18/2018)		2018/04/29	274
+MH606614	segment 1	length 2340
+MH606613	segment 2	length 2367
+MH606615	segment 3	length 2275
+MH606616	segment 4	length 1853
+MH606617	segment 5	length 1816
+MH606618	segment 6	length 1529
+MH606619	segment 7	length 1155
+MH606620	segment 8	length 1062
+>(B/Minnesota/19/2018)		2018/05/05	275
+MH606622	segment 1	length 2340
+MH606621	segment 2	length 2367
+MH606623	segment 3	length 2276
+MH606624	segment 4	length 1853
+MH606625	segment 5	length 1816
+MH606626	segment 6	length 1530
+MH606627	segment 7	length 1155
+MH606628	segment 8	length 1062
+>(B/Minnesota/20/2018)		2018/05/09	276
+MH606629	segment 1	length 2340
+MH606636	segment 2	length 2367
+MH606630	segment 3	length 2276
+MH606631	segment 4	length 1850
+MH606632	segment 5	length 1815
+MH606633	segment 6	length 1529
+MH606634	segment 7	length 1154
+MH606635	segment 8	length 1066
+>(B/Minnesota/22/2018)		2018/05/25	277
+MH606646	segment 1	length 2341
+MH606645	segment 2	length 2367
+MH606647	segment 3	length 2275
+MH606648	segment 4	length 1853
+MH606649	segment 5	length 1816
+MH606650	segment 6	length 1529
+MH606651	segment 7	length 1155
+MH606652	segment 8	length 1063
+>(A/Minnesota/55/2018)	H3N2	2018/11/03	278
+MK398540	segment 1	length 2316
+MK398541	segment 2	length 2316
+MK398542	segment 3	length 2209
+MK398543	segment 4	length 1737
+MK398544	segment 5	length 1542
+MK398545	segment 6	length 1441
+MK398546	segment 7	length 1002
+MK398547	segment 8	length 865
+>(A/Minnesota/54/2018)	H3N2	2018/10/26	279
+MK398556	segment 1	length 2316
+MK398557	segment 2	length 2316
+MK398558	segment 3	length 2208
+MK398559	segment 4	length 1737
+MK398560	segment 5	length 1542
+MK398561	segment 6	length 1441
+MK398562	segment 7	length 1002
+MK398563	segment 8	length 865
+>(A/Minnesota/57/2018)	H1N1	2018/11/12	280
+MK398779	segment 1	length 2316
+MK398780	segment 2	length 2316
+MK398781	segment 3	length 2208
+MK398782	segment 4	length 1752
+MK398783	segment 5	length 1540
+MK398784	segment 6	length 1433
+MK398785	segment 7	length 1002
+MK398786	segment 8	length 865
+>(A/Minnesota/56/2018)	H1N1	2018/11/06	281
+MK398891	segment 1	length 2316
+MK398892	segment 2	length 2316
+MK398893	segment 3	length 2208
+MK398894	segment 4	length 1752
+MK398895	segment 5	length 1540
+MK398896	segment 6	length 1434
+MK398897	segment 7	length 1002
+MK398898	segment 8	length 865
+>(A/Minnesota/60/2018)	H1N1	2018/11/28	282
+MK475357	segment 1	length 2316
+MK475358	segment 2	length 2316
+MK475359	segment 3	length 2208
+MK475360	segment 4	length 1752
+MK475361	segment 5	length 1540
+MK475362	segment 6	length 1433
+MK475258	segment 7	length 1002
+MK475259	segment 8	length 865
+>(A/Minnesota/59/2018)	H1N1	2018/11/23	283
+MK475296	segment 1	length 2316
+MK475516	segment 2	length 2316
+MK475517	segment 3	length 2208
+MK475518	segment 4	length 1752
+MK475519	segment 5	length 1540
+MK475520	segment 6	length 1433
+MK475521	segment 7	length 1002
+MK475522	segment 8	length 865
+>(A/Minnesota/61/2018)	H3N2	2018/12/07	284
+MK623145	segment 1	length 2316
+MK623146	segment 2	length 2316
+MK623147	segment 3	length 2208
+MK623148	segment 4	length 1737
+MK623149	segment 5	length 1542
+MK623150	segment 6	length 1441
+MK623151	segment 7	length 1002
+MK623152	segment 8	length 865
+>(A/Minnesota/63/2018)	H3N2	2018/12/13	285
+MK623153	segment 1	length 2316
+MK623154	segment 2	length 2316
+MK623155	segment 3	length 2208
+MK623156	segment 4	length 1737
+MK623157	segment 5	length 1542
+MK623158	segment 6	length 1441
+MK623159	segment 7	length 1002
+MK623160	segment 8	length 865
+>(A/Minnesota/66/2018)	H1N1	2018/12/24	286
+MK623634	segment 1	length 2316
+MK623635	segment 2	length 2316
+MK623636	segment 3	length 2208
+MK623637	segment 4	length 1752
+MK623638	segment 5	length 1540
+MK623639	segment 6	length 1434
+MK623640	segment 7	length 1002
+MK623641	segment 8	length 865
+>(A/Minnesota/65/2018)	H3N2	2018/12/18	287
+MK624336	segment 1	length 2316
+MK624342	segment 2	length 2316
+MK624337	segment 3	length 2208
+MK624338	segment 4	length 1737
+MK624339	segment 5	length 1541
+MK624340	segment 6	length 1441
+MK624341	segment 7	length 1002
+MK624343	segment 8	length 865
+>(A/Minnesota/67/2018)	H3N2	2018/12/27	288
+MK624345	segment 1	length 2316
+MK624346	segment 2	length 2316
+MK624347	segment 3	length 2208
+MK624348	segment 4	length 1737
+MK624349	segment 5	length 1541
+MK624344	segment 6	length 1441
+MK624350	segment 7	length 1002
+MK624351	segment 8	length 865
+>(A/Minnesota/62/2018)	H1N1	2018/12/11	289
+MK626258	segment 1	length 2316
+MK626259	segment 2	length 2316
+MK626260	segment 3	length 2208
+MK626261	segment 4	length 1752
+MK626262	segment 5	length 1540
+MK626263	segment 6	length 1433
+MK626264	segment 7	length 1002
+MK626265	segment 8	length 865
+>(A/Minnesota/64/2018)	H1N1	2018/12/14	290
+MK626266	segment 1	length 2316
+MK626267	segment 2	length 2316
+MK626268	segment 3	length 2208
+MK626269	segment 4	length 1752
+MK626270	segment 5	length 1540
+MK626271	segment 6	length 1434
+MK626272	segment 7	length 1002
+MK626273	segment 8	length 865
+>(A/Minnesota/02/2019)	H1N1	2019/01/11	291
+MK631263	segment 1	length 2316
+MK631264	segment 2	length 2316
+MK631265	segment 3	length 2208
+MK631266	segment 4	length 1752
+MK631267	segment 5	length 1540
+MK631268	segment 6	length 1433
+MK631269	segment 7	length 1002
+MK631270	segment 8	length 865
+>(A/Minnesota/03/2019)	H1N1	2019/01/12	292
+MK631271	segment 1	length 2316
+MK631272	segment 2	length 2316
+MK631273	segment 3	length 2208
+MK631274	segment 4	length 1752
+MK631275	segment 5	length 1540
+MK631276	segment 6	length 1433
+MK631277	segment 7	length 1002
+MK631278	segment 8	length 865
+>(A/Minnesota/05/2019)	H1N1	2019/01/23	293
+MK715976	segment 1	length 2316
+MK715977	segment 2	length 2316
+MK715975	segment 3	length 2208
+MK715978	segment 4	length 1752
+MK715979	segment 5	length 1539
+MK715980	segment 6	length 1434
+MK715981	segment 7	length 1002
+MK715982	segment 8	length 865
+>(A/Minnesota/07/2019)	H1N1	2019/01/25	294
+MK715983	segment 1	length 2316
+MK715984	segment 2	length 2316
+MK715985	segment 3	length 2208
+MK715986	segment 4	length 1752
+MK715987	segment 5	length 1540
+MK715988	segment 6	length 1433
+MK715989	segment 7	length 1002
+MK715990	segment 8	length 865
+>(A/Minnesota/06/2019)	H3N2	2019/01/24	295
+MK744373	segment 1	length 2316
+MK744374	segment 2	length 2316
+MK744375	segment 3	length 2209
+MK744376	segment 4	length 1737
+MK744377	segment 5	length 1541
+MK744378	segment 6	length 1441
+MK744379	segment 7	length 1002
+MK744380	segment 8	length 865
+>(A/Minnesota/08/2019)	H3N2	2019/01/26	296
+MK744381	segment 1	length 2316
+MK744382	segment 2	length 2316
+MK744383	segment 3	length 2209
+MK744384	segment 4	length 1737
+MK744385	segment 5	length 1542
+MK744386	segment 6	length 1442
+MK744387	segment 7	length 1002
+MK744388	segment 8	length 865
+>(A/Minnesota/01/2019)	H3N2	2019/01/08	297
+MK745325	segment 1	length 2316
+MK745326	segment 2	length 2316
+MK745327	segment 3	length 2209
+MK745328	segment 4	length 1737
+MK745329	segment 5	length 1542
+MK745330	segment 6	length 1442
+MK745331	segment 7	length 1002
+MK745332	segment 8	length 865
+>(A/Minnesota/04/2019)	H3N2	2019/01/14	298
+MK745333	segment 1	length 2316
+MK745334	segment 2	length 2316
+MK745335	segment 3	length 2209
+MK745336	segment 4	length 1737
+MK745337	segment 5	length 1541
+MK745338	segment 6	length 1441
+MK745339	segment 7	length 1002
+MK745340	segment 8	length 865
+>(A/Minnesota/10/2019)	H3N2	2019/02/07	299
+MK857142	segment 1	length 2316
+MK857143	segment 2	length 2316
+MK857144	segment 3	length 2209
+MK857145	segment 4	length 1737
+MK857146	segment 5	length 1541
+MK857147	segment 6	length 1441
+MK857148	segment 7	length 1002
+MK857149	segment 8	length 865
+>(A/Minnesota/11/2019)	H3N2	2019/02/10	300
+MK857154	segment 1	length 2316
+MK857150	segment 2	length 2316
+MK857152	segment 3	length 2209
+MK857151	segment 4	length 1737
+MK857153	segment 5	length 1541
+MK857157	segment 6	length 1441
+MK857155	segment 7	length 1002
+MK857156	segment 8	length 865
+>(A/Minnesota/15/2019)	H3N2	2019/03/02	301
+MK857159	segment 1	length 2316
+MK857160	segment 2	length 2316
+MK857161	segment 3	length 2209
+MK857162	segment 4	length 1737
+MK857163	segment 5	length 1542
+MK857158	segment 6	length 1441
+MK857164	segment 7	length 1002
+MK857165	segment 8	length 865
+>(B/Minnesota/04/2019)		2019/02/27	302
+MK857922	segment 1	length 2340
+MK857921	segment 2	length 2367
+MK857923	segment 3	length 2275
+MK857924	segment 4	length 1853
+MK857925	segment 5	length 1816
+MK857926	segment 6	length 1530
+MK857927	segment 7	length 1155
+MK857928	segment 8	length 1062
+>(A/Minnesota/09/2019)	H1N1	2019/02/05	303
+MK855982	segment 1	length 2316
+MK855983	segment 2	length 2316
+MK855984	segment 3	length 2208
+MK855985	segment 4	length 1752
+MK855978	segment 5	length 1540
+MK855979	segment 6	length 1433
+MK855980	segment 7	length 1002
+MK855981	segment 8	length 865
+>(A/Minnesota/13/2019)	H1N1	2019/02/27	304
+MK855986	segment 1	length 2316
+MK855987	segment 2	length 2316
+MK855988	segment 3	length 2208
+MK855989	segment 4	length 1752
+MK855990	segment 5	length 1540
+MK855991	segment 6	length 1434
+MK855992	segment 7	length 1002
+MK855993	segment 8	length 865
+>(A/Minnesota/14/2019)	H1N1	2019/03/02	305
+MK855995	segment 1	length 2316
+MK855996	segment 2	length 2316
+MK855997	segment 3	length 2208
+MK855998	segment 4	length 1752
+MK855994	segment 5	length 1540
+MK855999	segment 6	length 1433
+MK856000	segment 7	length 1002
+MK856001	segment 8	length 865
+>(B/Minnesota/05/2019)		2019/03/18	306
+MK999122	segment 1	length 2340
+MK999121	segment 2	length 2367
+MK999123	segment 3	length 2275
+MK999124	segment 4	length 1853
+MK999125	segment 5	length 1816
+MK999126	segment 6	length 1529
+MK999127	segment 7	length 1155
+MK999128	segment 8	length 1062
+>(B/Minnesota/06/2019)		2019/03/28	307
+MK999130	segment 1	length 2340
+MK999129	segment 2	length 2367
+MK999131	segment 3	length 2275
+MK999132	segment 4	length 1853
+MK999133	segment 5	length 1816
+MK999134	segment 6	length 1529
+MK999135	segment 7	length 1155
+MK999136	segment 8	length 1062
+>(A/Minnesota/18/2019)	H1N1	2019/03/16	308
+MK999679	segment 1	length 2316
+MK999680	segment 2	length 2316
+MK999681	segment 3	length 2208
+MK999682	segment 4	length 1752
+MK999683	segment 5	length 1540
+MK999684	segment 6	length 1433
+MK999685	segment 7	length 1002
+MK999686	segment 8	length 865
+>(A/Minnesota/19/2019)	H3N2	2019/03/17	309
+MN001794	segment 1	length 2316
+MN001795	segment 2	length 2316
+MN001796	segment 3	length 2209
+MN001797	segment 4	length 1737
+MN001798	segment 5	length 1541
+MN001799	segment 6	length 1441
+MN001800	segment 7	length 1002
+MN001801	segment 8	length 865
+>(A/Minnesota/21/2019)	H1N1	2019/03/23	310
+MN004077	segment 1	length 2316
+MN004078	segment 2	length 2316
+MN004071	segment 3	length 2208
+MN004072	segment 4	length 1752
+MN004074	segment 5	length 1540
+MN004075	segment 6	length 1434
+MN004073	segment 7	length 1002
+MN004076	segment 8	length 865
+>(A/Minnesota/23/2019)	H1N1	2019/03/28	311
+MN004081	segment 1	length 2316
+MN004080	segment 2	length 2316
+MN004082	segment 3	length 2208
+MN004083	segment 4	length 1752
+MN004084	segment 5	length 1540
+MN004085	segment 6	length 1433
+MN004086	segment 7	length 1002
+MN004079	segment 8	length 865
+>(B/Minnesota/07/2019)		2019/04/04	312
+MN085811	segment 1	length 2341
+MN085805	segment 2	length 2367
+MN085812	segment 3	length 2276
+MN085806	segment 4	length 1853
+MN085807	segment 5	length 1816
+MN085808	segment 6	length 1512
+MN085809	segment 7	length 1155
+MN085810	segment 8	length 1062
+>(B/Minnesota/08/2019)		2019/04/12	313
+MN085814	segment 1	length 2340
+MN085813	segment 2	length 2367
+MN085815	segment 3	length 2276
+MN085816	segment 4	length 1850
+MN085817	segment 5	length 1816
+MN085818	segment 6	length 1528
+MN085819	segment 7	length 1154
+MN085820	segment 8	length 1066
+>(A/Minnesota/27/2019)	H1N1	2019/04/13	314
+MN083719	segment 1	length 2316
+MN083720	segment 2	length 2316
+MN083721	segment 3	length 2208
+MN083722	segment 4	length 1752
+MN083723	segment 5	length 1540
+MN083726	segment 6	length 1433
+MN083724	segment 7	length 1002
+MN083725	segment 8	length 865
+>(A/Minnesota/28/2019)	H1N1	2019/02/27	315
+MN083732	segment 1	length 2316
+MN083730	segment 2	length 2316
+MN083728	segment 3	length 2208
+MN083733	segment 4	length 1752
+MN083734	segment 5	length 1540
+MN083727	segment 6	length 1433
+MN083729	segment 7	length 1002
+MN083731	segment 8	length 865
+>(A/Minnesota/30/2019)	H1N1	2019/04/10	316
+MN083735	segment 1	length 2316
+MN083736	segment 2	length 2316
+MN083737	segment 3	length 2208
+MN083738	segment 4	length 1752
+MN083739	segment 5	length 1540
+MN083740	segment 6	length 1434
+MN083741	segment 7	length 1002
+MN083742	segment 8	length 865
+>(A/Minnesota/25/2019)	H3N2	2019/04/07	317
+MN084733	segment 1	length 2316
+MN084734	segment 2	length 2316
+MN084735	segment 3	length 2209
+MN084736	segment 4	length 1737
+MN084737	segment 5	length 1542
+MN084738	segment 6	length 1441
+MN084739	segment 7	length 1002
+MN084740	segment 8	length 865
+>(A/Minnesota/26/2019)	H3N2	2019/04/08	318
+MN084741	segment 1	length 2316
+MN084742	segment 2	length 2316
+MN084743	segment 3	length 2209
+MN084744	segment 4	length 1737
+MN084745	segment 5	length 1541
+MN084746	segment 6	length 1441
+MN084747	segment 7	length 1002
+MN084748	segment 8	length 865
+>(A/Minnesota/29/2019)	H1N1	2019/03/14	319
+MN161018	segment 1	length 2316
+MN161016	segment 2	length 2316
+MN161014	segment 3	length 2208
+MN161019	segment 4	length 1752
+MN161020	segment 5	length 1540
+MN161013	segment 6	length 1433
+MN161015	segment 7	length 1002
+MN161017	segment 8	length 865
+>(A/Minnesota/32/2019)	H1N1	2019/04/22	320
+MN161021	segment 1	length 2316
+MN161022	segment 2	length 2316
+MN161023	segment 3	length 2208
+MN161024	segment 4	length 1752
+MN161025	segment 5	length 1540
+MN161026	segment 6	length 1435
+MN161027	segment 7	length 1002
+MN161028	segment 8	length 865
+>(A/Minnesota/37/2019)	H1N1	2019/05/07	321
+MN161029	segment 1	length 2316
+MN161030	segment 2	length 2316
+MN161031	segment 3	length 2208
+MN161032	segment 4	length 1752
+MN161033	segment 5	length 1540
+MN161034	segment 6	length 1433
+MN161035	segment 7	length 1002
+MN161036	segment 8	length 865
+>(A/Minnesota/17/2019)	H3N2	2019/03/13	322
+MN222532	segment 1	length 2316
+MN222530	segment 2	length 2316
+MN222528	segment 3	length 2209
+MN222533	segment 4	length 1737
+MN222534	segment 5	length 1542
+MN222527	segment 6	length 1441
+MN222529	segment 7	length 1002
+MN222531	segment 8	length 865
+>(A/Minnesota/22/2019)	H3N2	2019/03/24	323
+MN222540	segment 1	length 2316
+MN222538	segment 2	length 2316
+MN222536	segment 3	length 2209
+MN222541	segment 4	length 1737
+MN222542	segment 5	length 1541
+MN222535	segment 6	length 1441
+MN222537	segment 7	length 1002
+MN222539	segment 8	length 865
+>(A/Minnesota/24/2019)	H3N2	2019/03/30	324
+MN222548	segment 1	length 2316
+MN222546	segment 2	length 2316
+MN222544	segment 3	length 2209
+MN222549	segment 4	length 1737
+MN222550	segment 5	length 1541
+MN222543	segment 6	length 1441
+MN222545	segment 7	length 1002
+MN222547	segment 8	length 865
+>(A/Minnesota/31/2019)	H3N2	2019/04/21	325
+MN222551	segment 1	length 2316
+MN222552	segment 2	length 2316
+MN222553	segment 3	length 2208
+MN222554	segment 4	length 1737
+MN222555	segment 5	length 1541
+MN222556	segment 6	length 1441
+MN222557	segment 7	length 1002
+MN222558	segment 8	length 865
+>(A/Minnesota/33/2019)	H3N2	2019/04/24	326
+MN222559	segment 1	length 2316
+MN222560	segment 2	length 2316
+MN222561	segment 3	length 2209
+MN222562	segment 4	length 1737
+MN222563	segment 5	length 1542
+MN222564	segment 6	length 1441
+MN222565	segment 7	length 1002
+MN222566	segment 8	length 865
+>(A/Minnesota/36/2019)	H3N2	2019/05/04	327
+MN222567	segment 1	length 2316
+MN222568	segment 2	length 2316
+MN222569	segment 3	length 2209
+MN222570	segment 4	length 1737
+MN222571	segment 5	length 1542
+MN222572	segment 6	length 1441
+MN222573	segment 7	length 1002
+MN222574	segment 8	length 865
+>(A/Minnesota/40/2019)	H1N1	2019/05/22	328
+MN229956	segment 1	length 2316
+MN229957	segment 2	length 2316
+MN229958	segment 3	length 2208
+MN229959	segment 4	length 1752
+MN229960	segment 5	length 1540
+MN229961	segment 6	length 1433
+MN229962	segment 7	length 1002
+MN229963	segment 8	length 865
+>(B/Minnesota/14/2019)		2019/05/16	329
+MN230497	segment 1	length 2340
+MN230496	segment 2	length 2367
+MN230490	segment 3	length 2275
+MN230491	segment 4	length 1853
+MN230492	segment 5	length 1816
+MN230493	segment 6	length 1529
+MN230494	segment 7	length 1155
+MN230495	segment 8	length 1061
+>(B/Minnesota/15/2019)		2019/05/16	330
+MN230499	segment 1	length 2340
+MN230498	segment 2	length 2367
+MN230500	segment 3	length 2276
+MN230501	segment 4	length 1850
+MN230502	segment 5	length 1816
+MN230503	segment 6	length 1528
+MN230504	segment 7	length 1154
+MN230505	segment 8	length 1066
+>(B/Minnesota/16/2019)		2019/05/18	331
+MN230507	segment 1	length 2340
+MN230506	segment 2	length 2367
+MN230508	segment 3	length 2275
+MN230509	segment 4	length 1853
+MN230510	segment 5	length 1816
+MN230511	segment 6	length 1530
+MN230512	segment 7	length 1155
+MN230513	segment 8	length 1062
+>(B/Minnesota/17/2019)		2019/05/21	332
+MN230515	segment 1	length 2340
+MN230514	segment 2	length 2367
+MN230516	segment 3	length 2276
+MN230517	segment 4	length 1850
+MN230518	segment 5	length 1816
+MN230519	segment 6	length 1528
+MN230520	segment 7	length 1154
+MN230521	segment 8	length 1066
+>(B/Minnesota/18/2019)		2019/06/06	333
+MN230523	segment 1	length 2340
+MN230522	segment 2	length 2367
+MN230524	segment 3	length 2276
+MN230529	segment 4	length 1850
+MN230525	segment 5	length 1816
+MN230526	segment 6	length 1528
+MN230527	segment 7	length 1154
+MN230528	segment 8	length 1066
+>(A/Minnesota/43/2019)	H1N1	2019/06/09	334
+MN318911	segment 1	length 2316
+MN318912	segment 2	length 2316
+MN318913	segment 3	length 2208
+MN318914	segment 4	length 1752
+MN318915	segment 5	length 1540
+MN318916	segment 6	length 1433
+MN318917	segment 7	length 1002
+MN318918	segment 8	length 865
+>(A/Minnesota/42/2019)	H3N2	2019/05/28	335
+MN319211	segment 1	length 2316
+MN319212	segment 2	length 2316
+MN319213	segment 3	length 2209
+MN319214	segment 4	length 1737
+MN319215	segment 5	length 1541
+MN319216	segment 6	length 1441
+MN319217	segment 7	length 1002
+MN319218	segment 8	length 865
+>(A/Minnesota/44/2019)	H3N2	2019/06/18	336
+MN319219	segment 1	length 2316
+MN319220	segment 2	length 2316
+MN319221	segment 3	length 2208
+MN319222	segment 4	length 1737
+MN319223	segment 5	length 1541
+MN319224	segment 6	length 1441
+MN319225	segment 7	length 1002
+MN319226	segment 8	length 865
+>(A/Minnesota/39/2019)	H3N2	2019/05/11	337
+MN372900	segment 1	length 2316
+MN372901	segment 2	length 2316
+MN372902	segment 3	length 2209
+MN372903	segment 4	length 1737
+MN372904	segment 5	length 1542
+MN372905	segment 6	length 1441
+MN372906	segment 7	length 1002
+MN372907	segment 8	length 865
+>(A/Minnesota/41/2019)	H3N2	2019/05/25	338
+MN372908	segment 1	length 2316
+MN372909	segment 2	length 2316
+MN372910	segment 3	length 2209
+MN372911	segment 4	length 1737
+MN372912	segment 5	length 1542
+MN372913	segment 6	length 1441
+MN372914	segment 7	length 1002
+MN372915	segment 8	length 865
+>(A/Minnesota/45/2019)	H1N1	2019/01/04	339
+MN423053	segment 1	length 2316
+MN423051	segment 2	length 2316
+MN423049	segment 3	length 2208
+MN423054	segment 4	length 1752
+MN423055	segment 5	length 1540
+MN423048	segment 6	length 1433
+MN423050	segment 7	length 1002
+MN423052	segment 8	length 865
+>(A/Minnesota/46/2019)	H1N1	2019/01/17	340
+MN423061	segment 1	length 2316
+MN423059	segment 2	length 2316
+MN423057	segment 3	length 2208
+MN423062	segment 4	length 1752
+MN423063	segment 5	length 1540
+MN423056	segment 6	length 1433
+MN423058	segment 7	length 1002
+MN423060	segment 8	length 865
+>(A/Minnesota/47/2019)	H1N1	2019/03/12	341
+MN423069	segment 1	length 2316
+MN423067	segment 2	length 2316
+MN423065	segment 3	length 2208
+MN423070	segment 4	length 1752
+MN423071	segment 5	length 1540
+MN423064	segment 6	length 1433
+MN423066	segment 7	length 1002
+MN423068	segment 8	length 865
+>(A/Minnesota/48/2019)	H3N2	2019/07/13	342
+MN424128	segment 1	length 2316
+MN424129	segment 2	length 2316
+MN424130	segment 3	length 2208
+MN424131	segment 4	length 1737
+MN424132	segment 5	length 1541
+MN424133	segment 6	length 1441
+MN424134	segment 7	length 1002
+MN424135	segment 8	length 865
+>(A/Minnesota/49/2019)	H3N2	2019/07/20	343
+MN507344	segment 1	length 2316
+MN507345	segment 2	length 2316
+MN507346	segment 3	length 2208
+MN507347	segment 4	length 1737
+MN507348	segment 5	length 1541
+MN507349	segment 6	length 1441
+MN507350	segment 7	length 1002
+MN507351	segment 8	length 865
+>(A/Minnesota/50/2019)	H3N2	2019/08/08	344
+MN552625	segment 1	length 2316
+MN552626	segment 2	length 2316
+MN552627	segment 3	length 2208
+MN552628	segment 4	length 1737
+MN552629	segment 5	length 1541
+MN552630	segment 6	length 1441
+MN552631	segment 7	length 1002
+MN552632	segment 8	length 865
+>(A/Minnesota/38/2019)	H1N1	2019/05/09	345
+MN552885	segment 1	length 2316
+MN552883	segment 2	length 2316
+MN552881	segment 3	length 2208
+MN552886	segment 4	length 1752
+MN552887	segment 5	length 1540
+MN552880	segment 6	length 1433
+MN552882	segment 7	length 1002
+MN552884	segment 8	length 865
+>(A/Minnesota/52/2019)	H3N2	2019/10/05	346
+MN820192	segment 1	length 2316
+MN820193	segment 2	length 2316
+MN820194	segment 3	length 2208
+MN820195	segment 4	length 1737
+MN820196	segment 5	length 1541
+MN820197	segment 6	length 1441
+MN820198	segment 7	length 1002
+MN820199	segment 8	length 865
+>(A/Minnesota/55/2019)	H1N1	2019/10/25	347
+MN881343	segment 1	length 2316
+MN881344	segment 2	length 2316
+MN881345	segment 3	length 2208
+MN881346	segment 4	length 1752
+MN881347	segment 5	length 1540
+MN881348	segment 6	length 1433
+MN881349	segment 7	length 1002
+MN881350	segment 8	length 865
+>(A/Minnesota/53/2019)	H3N2	2019/10/19	348
+MN881870	segment 1	length 2316
+MN881871	segment 2	length 2316
+MN881872	segment 3	length 2208
+MN881873	segment 4	length 1737
+MN881874	segment 5	length 1541
+MN881875	segment 6	length 1441
+MN881868	segment 7	length 1002
+MN881869	segment 8	length 865
+>(A/Minnesota/54/2019)	H3N2	2019/10/19	349
+MN881876	segment 1	length 2316
+MN881877	segment 2	length 2316
+MN881878	segment 3	length 2209
+MN881879	segment 4	length 1737
+MN881880	segment 5	length 1541
+MN881881	segment 6	length 1441
+MN881882	segment 7	length 1002
+MN881883	segment 8	length 865
+>(A/Minnesota/56/2019)	H1N1	2019/11/04	350
+MN948264	segment 1	length 2316
+MN948265	segment 2	length 2316
+MN948266	segment 3	length 2208
+MN948267	segment 4	length 1752
+MN948268	segment 5	length 1540
+MN948269	segment 6	length 1433
+MN948270	segment 7	length 1002
+MN948271	segment 8	length 865
+>(A/Minnesota/58/2019)	H1N1	2019/11/10	351
+MN948272	segment 1	length 2316
+MN948273	segment 2	length 2316
+MN948274	segment 3	length 2208
+MN948275	segment 4	length 1752
+MN948276	segment 5	length 1540
+MN948277	segment 6	length 1433
+MN948278	segment 7	length 1002
+MN948279	segment 8	length 865
+>(A/Minnesota/57/2019)	H3N2	2019/11/06	352
+MN948798	segment 1	length 2316
+MN948799	segment 2	length 2316
+MN948800	segment 3	length 2208
+MN948801	segment 4	length 1737
+MN948802	segment 5	length 1541
+MN948803	segment 6	length 1441
+MN948804	segment 7	length 1002
+MN948805	segment 8	length 865
+>(B/Minnesota/20/2019)		2019/10/29	353
+MN950115	segment 1	length 2340
+MN950114	segment 2	length 2367
+MN950116	segment 3	length 2276
+MN950117	segment 4	length 1847
+MN950118	segment 5	length 1815
+MN950119	segment 6	length 1528
+MN950120	segment 7	length 1154
+MN950121	segment 8	length 1067
+>(A/Minnesota/59/2019)	H3N2	2019/11/13	354
+MN975816	segment 1	length 2316
+MN975824	segment 1	length 2316
+MN975817	segment 2	length 2316
+MN975825	segment 2	length 2316
+MN975818	segment 3	length 2208
+MN975826	segment 3	length 2208
+MN975819	segment 4	length 1737
+MN975827	segment 4	length 1737
+MN975820	segment 5	length 1541
+MN975828	segment 5	length 1541
+MN975821	segment 6	length 1441
+MN975829	segment 6	length 1441
+MN975822	segment 7	length 1002
+MN975830	segment 7	length 1002
+MN975823	segment 8	length 865
+>(A/Minnesota/61/2019)	H3N2	2019/11/19	355
+MN975832	segment 1	length 2316
+MN975840	segment 1	length 2316
+MN975833	segment 2	length 2316
+MN975841	segment 2	length 2316
+MN975834	segment 3	length 2209
+MN975842	segment 3	length 2209
+MN975835	segment 4	length 1737
+MN975843	segment 4	length 1737
+MN975836	segment 5	length 1541
+MN975844	segment 5	length 1541
+MN975837	segment 6	length 1441
+MN975845	segment 6	length 1441
+MN975838	segment 7	length 1002
+MN975846	segment 7	length 1002
+MN975839	segment 8	length 865
+>(A/Minnesota/51/2019)	H1N1	2019/09/23	356
+MN976658	segment 1	length 2316
+MN976656	segment 2	length 2316
+MN976654	segment 3	length 2208
+MN976659	segment 4	length 1752
+MN976660	segment 5	length 1540
+MN976653	segment 6	length 1434
+MN976655	segment 7	length 1002
+MN976657	segment 8	length 865
+>(A/Minnesota/60/2019)	H1N1	2019/11/17	357
+MN976672	segment 1	length 2316
+MN976680	segment 1	length 2316
+MN976673	segment 2	length 2316
+MN976681	segment 2	length 2316
+MN976674	segment 3	length 2208
+MN976682	segment 3	length 2208
+MN976675	segment 4	length 1752
+MN976683	segment 4	length 1752
+MN976676	segment 5	length 1540
+MN976684	segment 5	length 1540
+MN976669	segment 6	length 1433
+MN976677	segment 6	length 1433
+MN976670	segment 7	length 1002
+MN976678	segment 7	length 1002
+MN976671	segment 8	length 865
+>(A/Minnesota/62/2019)	H1N1	2019/11/22	358
+MN976685	segment 1	length 2316
+MN976692	segment 1	length 2316
+MN976686	segment 2	length 2316
+MN976693	segment 2	length 2316
+MN976687	segment 3	length 2208
+MN976694	segment 3	length 2208
+MN976688	segment 4	length 1752
+MN976695	segment 4	length 1752
+MN976689	segment 5	length 1540
+MN976696	segment 5	length 1540
+MN976690	segment 6	length 1433
+MN976697	segment 6	length 1433
+MN976698	segment 7	length 1002
+MN976700	segment 7	length 1002
+MN976691	segment 8	length 865
+>(A/Minnesota/63/2019)	H3N2	2019/11/25	359
+MT031418	segment 1	length 2316
+MT031421	segment 1	length 2316
+MT031422	segment 2	length 2316
+MT031429	segment 2	length 2316
+MT031423	segment 3	length 2208
+MT031430	segment 3	length 2208
+MT031424	segment 4	length 1737
+MT031431	segment 4	length 1737
+MT031416	segment 5	length 1541
+MT031425	segment 5	length 1541
+MT031417	segment 6	length 1441
+MT031426	segment 6	length 1441
+MT031419	segment 7	length 1002
+MT031427	segment 7	length 1002
+MT031420	segment 8	length 865
+>(A/Minnesota/64/2019)	H3N2	2019/11/30	360
+MT031432	segment 1	length 2316
+MT031433	segment 1	length 2316
+MT031434	segment 2	length 2316
+MT031441	segment 2	length 2316
+MT031435	segment 3	length 2208
+MT031442	segment 3	length 2208
+MT031436	segment 4	length 1737
+MT031443	segment 4	length 1737
+MT031437	segment 5	length 1541
+MT031444	segment 5	length 1541
+MT031438	segment 6	length 1441
+MT031445	segment 6	length 1441
+MT031439	segment 7	length 1002
+MT031446	segment 7	length 1002
+MT031440	segment 8	length 865
+>(B/Minnesota/23/2019)		2019/11/20	361
+MT030123	segment 1	length 2340
+MT030122	segment 2	length 2367
+MT030124	segment 3	length 2276
+MT030125	segment 4	length 1847
+MT030126	segment 5	length 1815
+MT030127	segment 6	length 1528
+MT030128	segment 7	length 1154
+MT030129	segment 8	length 1067
+>(B/Minnesota/24/2019)		2019/11/21	362
+MT030131	segment 1	length 2340
+MT030130	segment 2	length 2367
+MT030132	segment 3	length 2276
+MT030133	segment 4	length 1847
+MT030134	segment 5	length 1815
+MT030135	segment 6	length 1528
+MT030136	segment 7	length 1154
+MT030137	segment 8	length 1067
+>(B/Minnesota/27/2019)		2019/12/06	363
+MT030155	segment 1	length 2340
+MT030154	segment 2	length 2367
+MT030156	segment 3	length 2275
+MT030157	segment 4	length 1853
+MT030158	segment 5	length 1816
+MT030159	segment 6	length 1529
+MT030160	segment 7	length 1155
+MT030161	segment 8	length 1063
+>(A/Minnesota/69/2019)	H1N1	2019/12/12	364
+MT058380	segment 1	length 2316
+MT058381	segment 2	length 2316
+MT058382	segment 3	length 2208
+MT058383	segment 4	length 1752
+MT058384	segment 5	length 1540
+MT058385	segment 6	length 1433
+MT058386	segment 7	length 1002
+MT058387	segment 8	length 865
+>(A/Minnesota/71/2019)	H1N1	2019/12/16	365
+MT058388	segment 1	length 2316
+MT058389	segment 2	length 2316
+MT058390	segment 3	length 2208
+MT058391	segment 4	length 1752
+MT058392	segment 5	length 1540
+MT058393	segment 6	length 1433
+MT058394	segment 7	length 1002
+MT058395	segment 8	length 865
+>(A/Minnesota/73/2019)	H3N2	2019/12/31	366
+MT169011	segment 1	length 2316
+MT169012	segment 2	length 2316
+MT169019	segment 2	length 2316
+MT169013	segment 3	length 2208
+MT169020	segment 3	length 2208
+MT169010	segment 4	length 1737
+MT169014	segment 4	length 1737
+MT169015	segment 5	length 1541
+MT169021	segment 5	length 1541
+MT169016	segment 6	length 1441
+MT169022	segment 6	length 1441
+MT169017	segment 7	length 1002
+MT169023	segment 7	length 1002
+MT169018	segment 8	length 865
+>(A/Minnesota/02/2020)	H1N1	2020/01/18	367
+MT244676	segment 1	length 2316
+MT244677	segment 2	length 2316
+MT244678	segment 3	length 2208
+MT244679	segment 4	length 1752
+MT244680	segment 5	length 1540
+MT244681	segment 6	length 1433
+MT244682	segment 7	length 1002
+MT244683	segment 8	length 865
+>(A/Minnesota/03/2020)	H1N1	2020/01/18	368
+MT244684	segment 1	length 2316
+MT244685	segment 2	length 2316
+MT244686	segment 3	length 2208
+MT244687	segment 4	length 1752
+MT244688	segment 5	length 1540
+MT244689	segment 6	length 1433
+MT244690	segment 7	length 1002
+MT244691	segment 8	length 865
+>(B/Minnesota/06/2020)		2020/01/09	369
+MT243273	segment 1	length 2340
+MT243281	segment 1	length 2340
+MT243272	segment 2	length 2367
+MT243280	segment 2	length 2367
+MT243274	segment 3	length 2275
+MT243282	segment 3	length 2275
+MT243275	segment 4	length 1853
+MT243283	segment 4	length 1853
+MT243276	segment 5	length 1816
+MT243284	segment 5	length 1816
+MT243277	segment 6	length 1529
+MT243285	segment 6	length 1529
+MT243278	segment 7	length 1155
+MT243286	segment 7	length 1155
+MT243279	segment 8	length 1063
+>(A/Minnesota/07/2020)	H1N1	2020/01/30	370
+MT303517	segment 1	length 2316
+MT303518	segment 2	length 2316
+MT303519	segment 3	length 2208
+MT303520	segment 4	length 1752
+MT303521	segment 5	length 1540
+MT303522	segment 6	length 1433
+MT303523	segment 7	length 1002
+MT303524	segment 8	length 865
+>(A/Minnesota/08/2020)	H1N1	2020/02/01	371
+MT303525	segment 1	length 2316
+MT303526	segment 2	length 2316
+MT303527	segment 3	length 2208
+MT303528	segment 4	length 1751
+MT303529	segment 5	length 1540
+MT303530	segment 6	length 1433
+MT303531	segment 7	length 1002
+MT303532	segment 8	length 865
+>(B/Minnesota/10/2020)		2020/01/28	372
+MT306986	segment 1	length 2340
+MT306985	segment 2	length 2367
+MT306987	segment 3	length 2276
+MT306988	segment 4	length 1847
+MT306989	segment 5	length 1815
+MT306990	segment 6	length 1528
+MT306991	segment 7	length 1154
+MT306992	segment 8	length 1069
+>(B/Minnesota/11/2020)		2020/01/30	373
+MT306994	segment 1	length 2340
+MT306993	segment 2	length 2367
+MT306995	segment 3	length 2276
+MT306996	segment 4	length 1847
+MT306997	segment 5	length 1815
+MT306998	segment 6	length 1528
+MT306999	segment 7	length 1154
+MT307000	segment 8	length 1067
+>(A/Minnesota/10/2020)	H1N1	2020/02/12	374
+MT331109	segment 1	length 2316
+MT331110	segment 2	length 2316
+MT331111	segment 3	length 2208
+MT331112	segment 4	length 1752
+MT331113	segment 5	length 1540
+MT331114	segment 6	length 1433
+MT331115	segment 7	length 1002
+MT331116	segment 8	length 865
+>(A/Minnesota/11/2020)	H1N1	2020/02/12	375
+MT331117	segment 1	length 2316
+MT331118	segment 2	length 2316
+MT331119	segment 3	length 2208
+MT331120	segment 4	length 1752
+MT331121	segment 5	length 1540
+MT331122	segment 6	length 1433
+MT331123	segment 7	length 1002
+MT331124	segment 8	length 865
+>(B/Minnesota/12/2020)		2020/02/08	376
+MT343355	segment 1	length 2340
+MT343354	segment 2	length 2367
+MT343360	segment 3	length 2276
+MT343356	segment 4	length 1847
+MT343357	segment 5	length 1815
+MT343361	segment 6	length 1528
+MT343358	segment 7	length 1154
+MT343359	segment 8	length 1067
+>(B/Minnesota/13/2020)		2020/02/11	377
+MT343362	segment 1	length 2340
+MT343364	segment 2	length 2367
+MT343365	segment 3	length 2276
+MT343366	segment 4	length 1847
+MT343367	segment 5	length 1815
+MT343368	segment 6	length 1528
+MT343369	segment 7	length 1154
+MT343363	segment 8	length 1067
+>(A/Minnesota/14/2020)	H1N1	2020/02/21	378
+MT419580	segment 1	length 2316
+MT419581	segment 2	length 2316
+MT419574	segment 3	length 2208
+MT419575	segment 4	length 1752
+MT419576	segment 5	length 1540
+MT419577	segment 6	length 1433
+MT419578	segment 7	length 1002
+MT419579	segment 8	length 865
+>(A/Minnesota/15/2020)	H1N1	2020/02/23	379
+MT419582	segment 1	length 2316
+MT419583	segment 2	length 2316
+MT419584	segment 3	length 2208
+MT419585	segment 4	length 1752
+MT419586	segment 5	length 1540
+MT419589	segment 6	length 1433
+MT419587	segment 7	length 1002
+MT419588	segment 8	length 865
+>(A/Minnesota/09/2020)	H3N2	2020/02/09	380
+MT422918	segment 1	length 2316
+MT422919	segment 2	length 2316
+MT422920	segment 3	length 2208
+MT422921	segment 4	length 1737
+MT422922	segment 5	length 1541
+MT422923	segment 6	length 1441
+MT422924	segment 7	length 1002
+MT422925	segment 8	length 865
+>(A/Minnesota/17/2020)	H1N1	2020/03/03	381
+MT466269	segment 1	length 2316
+MT466270	segment 2	length 2316
+MT466271	segment 3	length 2208
+MT466272	segment 4	length 1752
+MT466273	segment 5	length 1540
+MT466274	segment 6	length 1433
+MT466275	segment 7	length 1002
+MT466276	segment 8	length 865
+>(A/Minnesota/18/2020)	H1N1	2020/03/03	382
+MT466277	segment 1	length 2316
+MT466278	segment 2	length 2316
+MT466279	segment 3	length 2208
+MT466280	segment 4	length 1752
+MT466281	segment 5	length 1540
+MT466282	segment 6	length 1433
+MT466283	segment 7	length 1002
+MT466284	segment 8	length 865
