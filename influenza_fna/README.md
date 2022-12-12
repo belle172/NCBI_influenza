@@ -4,4 +4,5 @@ At least when I downloaded that file, each sequence was stored across multiple l
   influenza_file_fixer.py 
 which takes in influenza.txt and produces the influenza_fixed.fasta. influenza_fixed.fasta is influenza.txt with each sequence on one line. 
 
-The second script, protein_extractor_from_total.py, takes in 
+The second script, protein_extractor_from_total.py, takes in influenza_fixed.fasta and creates a file of only the header lines and sequences of samples from Minnesota. The file created is Minnesota_influenza.txt. 
+
