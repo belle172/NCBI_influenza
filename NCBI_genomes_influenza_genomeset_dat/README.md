@@ -9,3 +9,5 @@ NCBI_genomes_influenza_genomeset_dat/
     genomeset_dat.txt = human_influenza.txt + non_human.txt 
     genomeset_dat.txt = [human_MN.txt + human_not_MN.txt] + non_human.txt 
     genomeset_dat.txt = [ human_MN.txt + [human_not_MN_not_USA.txt + human_not_MN_USA.txt] ] + non_human.txt 
+
+These files contain header information for assembled genomes. 
