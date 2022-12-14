@@ -1,5 +1,5 @@
 # NCBI_data 
 
-https://docs.google.com/document/d/1JoKyrkNJF_ZDJRG4cExecbpXmCrzNaFTWNaGsxBi2iU/edit?usp=sharing 
+Documentation: https://docs.google.com/document/d/e/2PACX-1vQKhiz2O1S1yJY4YFfvNiPrDvTguY0Rt3XbA63U_pNdihPewnbZAYtMR4_KPDgVitC25kBhxUZ6ctTh/pub 
 
 NCBI_data/ 
