@@ -10,6 +10,7 @@ import os
 # first segment, and so on in each segment header line 
 
 # uncomment the os.mkdir lines if the folder to put the new files in does not exist yet 
+# TODO: just check for the folder in the working directory 4head 
 
 ref_folder_name = 'human_influenza_ref_genomes' # change if needed to folder of refs 
 # change if needed to folder name 
