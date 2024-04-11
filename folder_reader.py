@@ -1,43 +1,47 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 12 14:17:03 2022 
-@author: jasper
-"""
+# -*- coding: utf-8 -*- 
+""" 
+Created Dec 12 2022 
+@author: Jasper 
 
-# script for reading in a folder of files 
+This script, folder_reader.py, reads in two folders of fasta formatted files, where each file is 
+the genes of an organism, and all the files are of the same species. The script creates files of 
+each gene across all inputted organisms. 
+
+Input files = all genes per individual, output files = all individuals per gene 
+Files in the first input folder each contain a reference genome 
+Files in the second input folder each contain a genome to be aligned against the reference genomes 
+
+Script requirements: 
+    each sequence is preceeded by a header line, starting with '>segment ' 
+    All files have the same number of genes (or sequences followed by header lines) 
+""" 
+
 import os 
-import glob
+import glob 
 
-# This function is used to reads the fasta file to get the sequences.
-def read_fasta_file(file): 
+def read_fasta_file(file): # read the fasta file sequences 
     sequences = {} 
     ids = []
     filename = glob.glob(file) 
     with open(filename) as f: 
         lines = f.read().splitlines()
-    curr = None
+    curr = None 
     for index, line in enumerate(lines): 
         if index % 2 == 0:
             curr = line[1:]
-            ids.append(curr)
+            ids.append(curr) 
         else:
             sequences[curr] = line
     return ids, sequences 
 
-# script expectations: 
-# given a folder containing the reference genomes, and a folder containing the genomes 
-# to align to each reference, where the files in these folders contain the same 
-# number of segments, and each segment is preceeded by a header line indicated 
-# by starting with '>' and contains the segment number by saying 'segment 1' for the 
-# first segment, and so on in each segment header line 
 ref_folder_name = 'human_influenza_ref_genomes' # change if needed to folder of refs 
-genomes_folder_name = 'influenza_MN_genomes' # change if needed to folder name 
+genomes_folder_name = 'influenza_MN_genomes'    # change if needed to folder name 
 
 # file paths as string variables 
 working_directory = os.getcwd() 
 ref_folder_path = working_directory + '\\' + ref_folder_name 
 genomes_folder_path = working_directory + '\\' + genomes_folder_name 
-# os.mkdir(working_directory + '\\proteins') 
+# os.mkdir(working_directory + '\\proteins') # TODO: make this into a try except block 
 new_files_path = working_directory + '\\proteins\\' 
 
 # os.listdir() gives the names of all the files in the inputted path as a list 
@@ -59,8 +63,6 @@ for filename in ref_files_list: # for each file in the list of reference genomes
         if ref_line[0] == '>': # header line 
             header = ref_line.split('segment ') 
             header = header[1].split(',') 
-            header = header[0] 
-            segment = header[0] 
 
             regions_count += 1 # we are in a new header line / region 
             region_filename = region_folder + str(regions_count) + '.txt' 
@@ -80,11 +82,11 @@ for filename in ref_files_list: # for each file in the list of reference genomes
 
                 for genome_line in genome_file: # read in the data 
                     if genome_line[0] == '>': # header line 
-                    
+
                         # get the line for the specific segment we are in 
                         genome_header = genome_line.split('segment ') 
                         genome_segment = genome_header[1].split(' ') 
-                        if segment == genome_segment[0]: 
+                        if header[0] == genome_segment[0]: 
                             output_file.write(genome_line) 
                             output_file.write(genome_file.readline()) 
 
