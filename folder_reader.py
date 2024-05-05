@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*- 
-""" 
+''' 
 Created Dec 12 2022 
-@author: Jasper 
+Python 3.10 
+@author: Jasper Bellefeuille - belle172@umn.edu 
+Repository: NCBI_influenza/folder_reader.py
 
-This script, folder_reader.py, reads in two folders of fasta formatted files, where each file is 
-the genes of an organism, and all the files are of the same species. The script creates files of 
-each gene across all inputted organisms. 
+This script reads in two folders of fasta formatted files, where each file is the genes of an 
+organism, and all the files are of the same species. The script creates files of each gene across 
+all inputted organisms. 
 
 Input files = all genes per individual, output files = all individuals per gene 
 Files in the first input folder each contain a reference genome 
@@ -14,7 +16,7 @@ Files in the second input folder each contain a genome to be aligned against the
 Script requirements: 
     each sequence is preceeded by a header line, starting with '>segment ' 
     All files have the same number of genes (or sequences followed by header lines) 
-""" 
+''' 
 
 import os 
 import glob 
