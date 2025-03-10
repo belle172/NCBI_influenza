@@ -1,4 +1,4 @@
-# this script takes an input file of sequences and a metadata criteria and creates 
+# This script takes an input file of sequences and a metadata criteria and creates 
 # a file of the sequences with the specified metadata, and a file of the sequences 
 # without the metadata 
 input_file = open('genomeset_dat.txt') 
